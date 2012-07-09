@@ -17,7 +17,7 @@
     <string name="send_install_log_error">Error Log senden Fehlgeschlagen</string>
     <string name="copy_install_log">In die Zwischenablage Kopieren</string>
     <string name="reboot_to_new_system">Neustarten</string>
-    <string name="update_success">Gl�ckwunsch, das Update wurde erfolgreich durchgeführt!</string>
+    <string name="update_success">Glückwunsch, das Update wurde erfolgreich durchgeführt!</string>
     <string name="mione_update_success_title">Update erfolgreich</string>
     <string name="mione_update_success_description">Wechsel system</string>
     <string name="mione_update_fail_title">Update fehlgeschlagen</string>
