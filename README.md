@@ -15,3 +15,7 @@ Credits
 External Links
 =================
 * [MIUIAndroid](http://miuiandroid.com)
+
+Missing apk's:
+
+NetworkAssistant.apk

@@ -411,4 +411,17 @@
 <string name="bookmark_add_to">Hinzufügen zu</string>
 <string name="add_folder">Ordner hinzufügen</string>
 <string name="add_bookmark_to_home_screen">Verknüpfung auf den Homescreen  erstellen</string>
+<string name="pref_fling_on_border_enabled">Fling on border</string>
+  <string name="pref_fling_on_border_operation">Operation for fling on border</string>
+  <string name="pref_gesture_title">Gesture operations</string>
+  <string name="pref_key_title">Key settings</string>
+  <string name="pref_key_gesture_title">Keys and gesture</string>
+  <string name="pref_volume_key_enabled">Volume keys</string>
+  <string name="pref_volume_key_operation">Operation for volume keys</string>
+<string name="is_first_history_item">Is the first history item already</string>
+<string name="is_first_tab">Is the first tab already</string>
+<string name="is_last_history_item">Is the last history item already</string>
+<string name="is_last_tab">Is the last tab already</string>
+<string name="is_page_bottom">At the bottom of the page already</string>
+<string name="is_page_top">At the top of the page already</string>
 </resources>

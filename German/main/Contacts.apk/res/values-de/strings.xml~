@@ -518,7 +518,7 @@
 <string name="deselect_all">Keine</string>
 <string name="select_none">Nichts ausgewählt, der Vorgang ist ungültig</string>
 <string name="toast_finish_delete_call_log">Anrufliste gelöscht.</string>
-<string name="confirm_delete_selected_call_log">Bestätigen sie das löschen der gewählten Gruppe der AnruflisteConfirm to delete the %1d</string>
+<string name="confirm_delete_selected_call_log">Bestätigen sie das löschen der gewählten %1d Gruppe der Anrufliste</string>
 <string name="calllog_menu_blacklist">Zur Blacklist hinzufügen</string>
 <string name="calllog_menu_edit_before_call">Vor Anruf bearbeiten</string>
 <string name="calllog_menu_send_sms">Sende SMS</string>
@@ -574,4 +574,5 @@
 <string name="sim_contacts_invisiable">Unsichtbar</string>
 <string name="sim_contacts_visiable">Sichtbar</string>
 <string name="lunarBirthdayLabelsGroup">Mond Geburtstag</string>
+<string name="pkgLabel">Kontakte und Telefon</string>
 </resources>

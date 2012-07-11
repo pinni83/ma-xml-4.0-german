@@ -1635,4 +1635,5 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
     <string name="led_pulse_summary">Permanentes Blinken bei Eingang einer neuen Nachricht</string>
     <string name="show_rounded_corners">Zeige runde Ecken</string>
     <string name="show_rounded_corners_summary">Neustart erforderlich</string>
+<string name="enable_snapshot_screenlock">Long-press Back key to take snapshot in lock screen</string>
 </resources>

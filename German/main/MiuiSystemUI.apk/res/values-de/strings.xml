@@ -265,4 +265,6 @@
     <string name="settings_auto_dismiss_screenshot_notification">Blende Screeenshot Info automatisch aus.</string>
 <string name="status_bar_network_flow_exceed">"Heute: %1$s | Überschritten: %2$s  |  Apps: %3$s"</string>
 <string name="APKTOOL_DUMMY_0112">false</string>
+<string name="status_bar_recent_clear_nothing_result">No memory to clear</string>
+<string name="status_bar_recent_memory_info_format">%dMB</string>
 </resources>
