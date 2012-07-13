@@ -258,7 +258,6 @@
 <string name="ext_media_safe_unmount_notification_message">Sie können jetzt den USB Speicher sicher entfernen.</string>
 <string name="ext_media_nomedia_notification_title">USB Speicher entfernt.</string>
 <string name="ext_media_nomedia_notification_message">USB Speicher wurde entfernt. Bitte neues Medium einlegen.</string>
-<string name="APKTOOL_DUMMY_0103">false</string>
 <string name="APKTOOL_DUMMY_0104">false</string>
     <string name="notifications_off_text">Berühre hier um die Benachrichtigungen einzuschalten.</string>
     <string name="notifications_off_title">Benachrichtigungen aus off</string>
@@ -266,5 +265,4 @@
 <string name="status_bar_network_flow_exceed">"Heute: %1$s | Überschritten: %2$s  |  Apps: %3$s"</string>
 <string name="APKTOOL_DUMMY_0112">false</string>
 <string name="status_bar_recent_clear_nothing_result">No memory to clear</string>
-<string name="status_bar_recent_memory_info_format">%dMB</string>
 </resources>
