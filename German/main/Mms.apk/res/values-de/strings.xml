@@ -458,4 +458,5 @@
 <string name="mx_enable">Enable cloud messaging</string>
 <string name="mx_warning_notice">An SMS will be sent to activate cloud messaging. Normal carrier data rates may apply</string>
 <string name="need_download">Waiting for sync...</string>
+<string name="no_sim">SIM unavailable, cloud messaging is unavailable</string>
 </resources>

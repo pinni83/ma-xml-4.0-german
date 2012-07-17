@@ -424,4 +424,8 @@
 <string name="is_last_tab">Is the last tab already</string>
 <string name="is_page_bottom">At the bottom of the page already</string>
 <string name="is_page_top">At the top of the page already</string>
+<string name="crash_recovcery_message">Browser wurde unerwartet beended.exited abnormally. Soll die letzte Sitzung wiederhergestellt werden?</string>
+<string name="manage_feature_permissions">Berechtigungen Einstellen</string>
+<string name="recover">Wiederherstellen</string>
+<string name="recover_from_crash">Fahre mit der letzten Browser Sitzung fort.</string>
 </resources>

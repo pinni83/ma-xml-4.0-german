@@ -588,4 +588,6 @@
   <string name="pref_title_import_from_account">Import to Xiaomi account</string>
   <string name="sim_card_no_free_space_message">Your SIM card capacity is full, unable to import new contacts. Please clear the SIM card and try again</string>
   <string name="sim_card_no_free_space_title">SIM card full</string>
+<string name="batch_delete_msg">"Delete the selected %d contacts? Contact info stored in the cloud will also be deleted."</string>
+<string name="menu_batch_delete">Batch delete contacts</string>
 </resources>
