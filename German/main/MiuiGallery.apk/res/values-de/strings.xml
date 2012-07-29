@@ -279,9 +279,9 @@
 <string name="no_storage_message">Kein externer Speicher verfügbar.</string>
 <string name="home_recent_albums">Favoritenalben</string>
 <string name="show_details">Details</string>
-<string name="cloud_gallery_space_full">Upload failed!, Cloud gallery storage full</string>
-<string name="cloud_media_set_set">Cloud albums</string>
-<string name="message_no_delete_access">Access denied. Cannot delete file or folder: %s</string>
-<string name="move_cloud_data">Cloud gallery data has been moved to: %s</string>
-<string name="no_storage_disable_cloud_albums">Cloud albums are disabled; please retry after external storage becomes available.</string>
+<string name="cloud_gallery_space_full">Hochladen fehlgeschlagen!, Cloud Gallery Speicher voll!</string>
+<string name="cloud_media_set_set">Cloud Albums</string>
+<string name="message_no_delete_access">Zugang verweigert. Datei/Ordner kann nicht gelöscht werden: %s</string>
+<string name="move_cloud_data">Cloud Gallery wurde verschoben nach: %s</string>
+<string name="no_storage_disable_cloud_albums">Cloud Albums sind deaktiviert; Bitte erneut versuchen wenn Speicherkarte bereit ist</string>
 </resources>
