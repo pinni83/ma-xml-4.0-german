@@ -62,6 +62,6 @@
     <string name="apply_font_btn_exclude">Hinzufügen ohne Schriftart</string>
 <string name="title_system_resource">System Ressourcen </string>
 <string name="title_download_resource">Download Ressourcen </string>
-<string name="component_lockstyle_personal_title">Settings</string>
+<string name="component_lockstyle_personal_title">Einstellungen</string>
 <string name="lockstyle_personal_settings">Customization</string>
 </resources>
