@@ -179,7 +179,7 @@
 <string name="ui_task_title">Übertragungs Manager</string>
 <string name="ui_task_toast_file_not_exist">Datei “%1$s” existiert nicht</string>
 <string name="upload_file_toolarge_message">"%1$d Datein größer als 300MB können nicht hochgeladen werden. Überprüfe Übertrangungs Manager."</string>
-<string name="upload_items_detail_message"Kkopiere %1$d Datein nach MiDrive...%2$d%%</string>
+<string name="upload_items_detail_message">Kopiere %1$d Datein nach MiDrive...%2$d%%</string>
 <string name="used">Benutzt</string>
 <string name="user_guide">Benutzerhandbuch</string>
 <string name="user_guide_summary">Wie Benutze ich MiDrive</string>

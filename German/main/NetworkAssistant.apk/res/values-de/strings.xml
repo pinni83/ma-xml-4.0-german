@@ -25,13 +25,13 @@
     <string name="pref_connect_settings_title">Netzwerk Monito Einstellungen</string>
     <string name="pref_connect_settings_notify_in_statusbar">Zeige Verbrauch in Statusbar an</string>
     <string name="pref_connect_settings_exceed_limit">Datenverbindung Deaktiveren</string>
-    <string name="pref_connect_settings_exceed_limit_hint"Benachrichtig und trennt das Internwet bei überschreitung des Limits</string>
+    <string name="pref_connect_settings_exceed_limit_hint">Benachrichtig und trennt das Internwet bei überschreitung des Limits</string>
     <string name="pref_connect_settings_enable_backgroung">Aktiviere Hintergrund Verbindung</string>
     <string name="pref_connect_settings_enable_backgroung_hint">Erlaube automatsiche Internetverbindung wenn Anwendung im Hintergrund läuft</string>
     <string name="warning_title">Warnung</string>
     <string name="close_txt">Schließen</string>
     <string name="cancel_txt">Abbrechen</string>
-    <string name="disable_background_connect_warning">Einige Anwendungen könne ohne 2G/3G verbindung im Hintergrund nicht ausgeführt werden!Dennoch Deaktivieren?</string></string>
+    <string name="disable_background_connect_warning">Einige Anwendungen könne ohne 2G/3G verbindung im Hintergrund nicht ausgeführt werden!Dennoch Deaktivieren?</string>
     <string name="menu_refresh">Aktualisieren</string>
     <string name="menu_sort">Sort</string>
     <string name="menu_display_wifi">Zeige Wi-Fi Verbrauch</string>
@@ -88,9 +88,9 @@
     <string name="stop_app_button">Schließen</string>
     <string name="detail_app_button">App info</string>
     <string name="plate_traffic_already_used">Verbraucht (%s)</string>
-    <string name="plate_traffic_remain">verbleibenden (%s)</string>
+    <string name="plate_traffic_remain">Verbleibend (%s)</string>
     <string name="plate_traffic_exceed">überschritten (%s)</string>
-    <string name="traffic_remain">verbleibendeng</string>
+    <string name="traffic_remain">Verbleibend</string>
     <string name="apply_rules_failed_known">OK</string>
     <string name="apply_rules_failed">Failed to apply firewall, please try again. (%s)</string>
     <string name="traffic_total">Gesamt: %s</string>
