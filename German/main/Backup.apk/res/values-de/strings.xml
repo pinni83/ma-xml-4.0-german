@@ -80,9 +80,9 @@
 2.\u0009MiTalk installieren und einloggen.
 \u0009http://www.miliao.com
 
-3.\u0009Enter MiTalk settings and choose ”Back up contacts to Xiaomi account”"</string>
+3.\u0009Öffne  MiTalk Einstellungen und wähle ”Back up contacts to Xiaomi account”"</string>
   <string name="import_from_xiaomi_account_hint2">Hinweis: Diesen Schritt überspringen wenn schon ein Backup existiert</string>
-  <string name="import_from_xiaomi_account_hint_title">Use MiTalk to back up contacts on other devices, not MI-ONE</string>
+  <string name="import_from_xiaomi_account_hint_title">Benutze MiTalk um Kontakte auf andere Geräte zu sichern, nicht MI-ONE</string>
   <string name="local_app_name">Backup</string>
   <string name="local_backup_window_title">Lokal</string>
   <string name="local_home_title">Lokal</string>
@@ -169,16 +169,16 @@ Dies könnte zu Datenverlusten führen!"</string>
   <string name="unit_piece">" Teil(e)"</string>
   <string name="unknown_hint">Unbekannt</string>
   <string name="wifi_title">Wlan Einstellungen</string>
-<string name="already_enable_encrypt">Encryption enabled</string>
-  <string name="enable_encrypt">Enable now</string>
-  <string name="enable_encrypt_fail">Enabling encryption failed</string>
-  <string name="enable_encrypt_indicator">Backup is not encrypted, click to enable.</string>
+<string name="already_enable_encrypt">Verschlüsselung aktiviert</string>
+  <string name="enable_encrypt">Aktiviere jetzt</string>
+  <string name="enable_encrypt_fail">Verschlüsselung aktivieren fehlgeschlagen</string>
+  <string name="enable_encrypt_indicator">Backup ist nicht verschlüsselt,klick um zu aktivieren.</string>
   <string name="enable_encrypt_ok">OK</string>
   <string name="enable_encrypt_summery1">"System will encrypt your local backup based on Xiaomi account, you need to log in to your Xiaomi account when removing data or using other devices to restore   the backup."</string>
   <string name="enable_encrypt_summery2">"The new backup will be automatically encrypted. You need to log into your Xiaomi account when removing data or using other devices to restore the backup."</string>
-  <string name="enable_encrypt_title">Encryption enabled</string>
-  <string name="enable_encrypt_xiaomi_account">This backup was created by %1$s, please delete the current account, and log in to %2$s in order to restore the data.</string>
-  <string name="exchange_account">Exchange account</string>
-  <string name="no_encrypt_password">No password encryption</string>
-  <string name="read_encrypt_fail">Encryption read failed</string>
+  <string name="enable_encrypt_title">Verschlüsselung aktiv</string>
+  <string name="enable_encrypt_xiaomi_account">Dieses Backup wurde von %1$s erstellt, bitte löschen Sie den derzeitigen Account und logen sich in %2$s ein um die Daten wiederherzustellen.</string>
+<string name="exchange_account">Exchange account</string>
+  <string name="no_encrypt_password">Keine Passworverschlüsselung</string>
+  <string name="read_encrypt_fail">Verschlüsselung lesen fehlgeschlagen</string>
 </resources>
