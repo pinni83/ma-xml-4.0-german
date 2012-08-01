@@ -18,4 +18,5 @@ External Links
 
 Missing apk's:
 
-NetworkAssistant.apk
+XiaomiServiceFramework.apk
+

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string name="reboot_confirm">Telefon wird neu gestartet</string>
 <string name="reboot_progress">Neustart...</string>
@@ -436,4 +436,12 @@
 <string name="month_of_october">Okt</string>
 <string name="month_of_november">Nov</string>
 <string name="month_of_december">Dez</string>
+<string name="android_lockscreen_glogin_checking_password">@android:string/lockscreen_glogin_checking_password</string>
+  <string name="android_lockscreen_glogin_forgot_pattern">@android:string/lockscreen_glogin_forgot_pattern</string>
+  <string name="android_lockscreen_glogin_instructions">To unlock, sign in with your account</string>
+  <string name="android_lockscreen_glogin_invalid_input">@android:string/lockscreen_glogin_invalid_input</string>
+  <string name="android_lockscreen_glogin_password_hint">@android:string/lockscreen_glogin_password_hint</string>
+  <string name="android_lockscreen_glogin_submit_button">@android:string/lockscreen_glogin_submit_button</string>
+  <string name="android_lockscreen_glogin_too_many_attempts">@android:string/lockscreen_glogin_too_many_attempts</string>
+  <string name="android_today">@android:string/today</string>
 </resources>

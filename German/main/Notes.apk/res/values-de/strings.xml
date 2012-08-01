@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
 <string name="app_name">Notizen</string>
 <string name="app_widget2x2">Notizen 2x2</string>
@@ -102,4 +102,19 @@
 <string name="search">Notizen</string>
 <string name="select_text">Text wählen</string>
 <string name="button_new_note">Neue Notiz</string>
+ <string name="alert_edit_action_delete">Remove</string>
+  <string name="alert_edit_action_update">Update</string>
+  <string name="attachment_camera">Camera</string>
+  <string name="attachment_contact">Contact</string>
+  <string name="attachment_gallery">Gallery</string>
+  <string name="image_edit_action_delete">Delete</string>
+  <string name="image_edit_action_replace">Replace</string>
+  <string name="image_edit_action_replace_menu_camera">@string/attachment_camera</string>
+  <string name="image_edit_action_replace_menu_gallery">@string/attachment_gallery</string>
+  <string name="image_edit_action_replace_menu_title">Replace item</string>
+  <string name="image_edit_action_view">View</string>
+  <string name="snippet_image_stub">[Image]</string>
+  <string name="time_picker_dialog_title">Set Reminder Time</string>
+  <string name="toast_message_add_image_fail">Failed to insert image!</string>
+  <string name="toast_message_replace_image_fail">Failed to replace image!</string>
 </resources>
