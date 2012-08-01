@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_login">Anmelden</string>
   <string name="account_summary">Backup Gmail, Email und Xiaomi Konto</string>
@@ -169,4 +169,16 @@ Dies könnte zu Datenverlusten führen!"</string>
   <string name="unit_piece">" Teil(e)"</string>
   <string name="unknown_hint">Unbekannt</string>
   <string name="wifi_title">Wlan Einstellungen</string>
+<string name="already_enable_encrypt">Encryption enabled</string>
+  <string name="enable_encrypt">Enable now</string>
+  <string name="enable_encrypt_fail">Enabling encryption failed</string>
+  <string name="enable_encrypt_indicator">Backup is not encrypted, click to enable.</string>
+  <string name="enable_encrypt_ok">OK</string>
+  <string name="enable_encrypt_summery1">"System will encrypt your local backup based on Xiaomi account, you need to log in to your Xiaomi account when removing data or using other devices to restore   the backup."</string>
+  <string name="enable_encrypt_summery2">"The new backup will be automatically encrypted. You need to log into your Xiaomi account when removing data or using other devices to restore the backup."</string>
+  <string name="enable_encrypt_title">Encryption enabled</string>
+  <string name="enable_encrypt_xiaomi_account">This backup was created by %1$s, please delete the current account, and log in to %2$s in order to restore the data.</string>
+  <string name="exchange_account">Exchange account</string>
+  <string name="no_encrypt_password">No password encryption</string>
+  <string name="read_encrypt_fail">Encryption read failed</string>
 </resources>
