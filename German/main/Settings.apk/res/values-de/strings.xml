@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="additional_system_update" />
     <string name="additional_system_update_menu" />
@@ -1636,4 +1636,11 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
     <string name="show_rounded_corners">Zeige runde Ecken</string>
     <string name="show_rounded_corners_summary">Neustart erforderlich</string>
 <string name="enable_snapshot_screenlock">Zurück Key lange drücken um ein Screenshot im Lock Screen aufzunehmen</string>
+<string name="font_size_huge">Huge</string>
+<string name="font_size_large">Large</string>
+<string name="font_size_medium">Medium</string>
+<string name="font_size_normal">Normal</string>
+<string name="font_size_preview">MIUI</string>
+<string name="font_size_small">Small</string>
+<string name="font_size_summary">Adjust font size or layouts of applications such as; Phone, Messaging, Contacts etc, to increase readability and usability.</string>
 </resources>

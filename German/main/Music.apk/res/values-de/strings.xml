@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="confirm">Bestätigen</string>
     <string name="cancel">Abbrechen</string>
@@ -204,4 +204,7 @@
     <string name="filter_max">2MB</string>
     <string name="filter_min">0K</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+<string name="file_not_found">File does not exist</string>
+<string name="music_browser_label">Music</string>
+<string name="not_selected">Please select a song</string>
 </resources>
