@@ -5,7 +5,7 @@
   <string name="VideoView_error_text_unknown">Sorry, this video cannot be played</string>
   <string name="VideoView_error_title">Unable to play this video.</string>
   <string name="about_app_name">MiPlayer</string>
-  <string name="about_title">About</string>
+  <string name="about_title">Über</string>
   <string name="about_version">V4.0</string>
   <string name="adjust_position_next_media_notice">Next</string>
   <string name="adjust_position_prev_media_notice">Prev</string>
@@ -15,7 +15,7 @@
   <string name="buffering">Buffering...</string>
   <string name="hello">VideoPlayerActivity</string>
   <string name="loading_video_netplay_label">Loading, please wait...</string>
-  <string name="menu_item_about_label">About</string>
+  <string name="menu_item_about_label">Über</string>
   <string name="menu_item_hide_media_info_label">Hide media info</string>
   <string name="menu_item_media_info_label">Show media info</string>
   <string name="menu_item_switch_width_height_label">Switch aspect ratio</string>
