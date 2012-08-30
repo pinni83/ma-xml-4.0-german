@@ -1,6 +1,6 @@
-MIUIAndroid ICS German Translations.
+MIUIAndroid V4 German Translations.
 =================
-This is repository for MIUIAndroid MultiRom project.
+This is a repository for the MIUIAndroid MultiRom project.
 
 Credits
 =================
@@ -10,13 +10,10 @@ Credits
 
 * [bitti] - Helps with the translation^^
 
-
-
+* [BobQuentok] - Helps with the translation^^
+ 
 External Links
 =================
 * [MIUIAndroid](http://miuiandroid.com)
 
-Missing apk's:
-
-XiaomiServiceFramework.apk
 
