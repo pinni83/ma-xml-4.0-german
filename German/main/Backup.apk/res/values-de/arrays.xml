@@ -5,15 +5,15 @@
         <item>Alle Anwendungen</item>
     </string-array>
     <string-array name="system_package_label">
-	<item>Browser</item>
-        <item>Gallerie</item>
-        <item>Musik</item>
-        <item>Sound Recorder</item>
-                <item>Kamera</item>
+	  <item>Browser</item>
         <item>Dateibrowser</item>
-    </string-array>
+        <item>Gallerie</item>
+        <item>Rechte Manager</item>
+        <item>Kamera</item>
+        <item>Netzwerk Assistent</item>
+	</string-array>
     <string-array name="system_data_label">
-        <item>Kontakte</item>
+	 <item>Contacts</item>
         <item>Anruflisten</item>
         <item>SMS</item>
         <item>MMS</item>
@@ -24,8 +24,7 @@
         <item>Notizen</item>
         <item>Privat</item>
         <item>Konto</item>
-        <item>Rootuser</item>
-    </string-array>
+	</string-array>
     <string-array name="app_type_desc">
         <item>Daten</item>
         <item>Anwendung</item>
