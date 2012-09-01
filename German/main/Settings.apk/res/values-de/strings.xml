@@ -1577,13 +1577,20 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
     <string name="access_control_recording_intro_header">Muster zeichnen zum erstellen der Passwortsperre</string>
     <string name="access_control_app_entry_single">App Starten</string>
     <string name="access_control_app_entry_multiple">Starten %s</string>
-    <string name="key_settings_title">Tasten Option</string>
+    <string name="key_settings_title">Tasten Optionen</string>
     <string name="key_settings">Schaltfläche</string>
     <string name="back_long_press">Zurück Taste</string>
     <string name="enable_back_long_press">Lange zurück Taste drücken um App zu schließen</string>
-    <string name="back_long_press_timeout">"Verzögerung
-%1$.1f Sek."</string>
-    <string name="power_key">Power Taste</string>
+    <string name="back_long_press_timeout">"Verzögerun in Sekunden"</string>
+    <string name="power_key">Power Taste</string>   
+    <string name="menu_key">Menue Taste</string>
+    <string name="menu_new">Neuer APN</string>
+    <string name="menu_restore">Zuruecksetzten</string>
+    <string name="menu_save">Speichern</string>
+    <string name="menu_stats_last_unplugged">Waehrend des letzten Aussteckens fuer %1&d</string>
+    <string name="menu_stats_refresh">Aktualisieren</string>
+    <string name="menu_stats_total">Nutzung insgesamt</string>
+    <string name="menu_stats_unplugged">%1$s seit austecken</string>
     <string name="disable_power_key_long_press_under_keyguard">Im Lockscreen deaktiviert</string>
     <string name="media_button">Media Taste</string>
     <string name="preferred_media_app_summary">Musikplayer auswählen</string>
