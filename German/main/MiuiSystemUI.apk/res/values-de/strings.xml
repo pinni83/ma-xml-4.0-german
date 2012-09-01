@@ -189,7 +189,7 @@
 <string name="settings_toggle_position_divider_page">%1$d Schalter über der Leiste sind aktiv</string>
 <string name="settings_toggle_position_divider_list">Schalter über der Leiste werden angezeigt</string>
 <string name="settings_toggle_position_reset">Zurücksetzen</string>
-<string name="settings_toggle_collapse_after_clicked">Collapse after clicked</string>
+<string name="settings_toggle_collapse_after_clicked">Beeneden nach Auswahl</string>
 <string name="settings_notification_icon">Benachrichtigung Statusleiste</string>
 <string name="settings_expanded_view">Erweiterte Benachrichtigungs Anzeige</string>
 <string name="settings_expandable_under_keyguard">Im Lockscreen aktivieren</string>
@@ -211,6 +211,8 @@
 <string name="notification_icon_filter_menu_item_show">Benachrichtigungen dieser App in der Statusleiste anzeigen</string>
 <string name="notification_icon_filter_menu_item_hide">Benachrichtigungen dieser App nicht in der Statusleiste anzeigen</string>
 <string name="settings_separator">,</string>
+<string name="settings_show_flow_info">Zeige Verbrauch</string>
+<string name="settings_show_network_speed">Zeige Netzwerk geschwindigkeit</string>
 <string name="incoming_call_vibrate_hint">Eingehender Anruf</string>
 <string name="notification_vibrate_hint">Benachrichtigung</string>
 <string name="mms_vibrate_hint">Nachricht</string>

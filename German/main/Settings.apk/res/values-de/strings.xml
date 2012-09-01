@@ -277,6 +277,7 @@
     <string name="security_settings_summary">Meinen Standort, Display-Entsperrung, SIM-Kartensperre und Sperre für Anmeldeinformationsspeicher festlegen</string>
     <string name="cdma_security_settings_summary">Meinen Standort, Display-Entsperrung, SIM-Kartensperrung und Sperrung des Anmeldeinformationsspeichers festlegen</string>
     <string name="security_passwords_title">Passwörter</string>
+    <string name="security_privacy_settings_title">Sicherheit &amp; Gastmodus</string>
     <string name="crypt_keeper_settings_title">Verschlüsselung</string>
     <string name="crypt_keeper_encrypt_title">Telefon verschlüsseln</string>
     <string name="crypt_keeper_encrypt_summary">Eine numerische PIN oder ein Passwort einrichten, mit dem das Telefon beim Einschalten entschlüsselt werden muss.</string>
@@ -1162,6 +1163,7 @@ Bereit? Dann tippen Sie auf \"Weiter\"."</string>
     <string name="battery_stats_wake_lock_label">Aktiv</string>
     <string name="battery_stats_phone_signal_label">Mobilfunknetzsignal</string>
     <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
+    <string name="search_battery_indicatior">Batterie Anzeige</string>
     <string name="awake">Aktivzeit des Geräts</string>
     <string name="wifi_on_time">WLAN-Aktivzeit</string>
     <string name="bluetooth_on_time">WLAN-Aktivzeit</string>
@@ -1606,8 +1608,8 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
     <string name="pref_volume_wake_title">Aufwecken</string>
     <string name="pref_volume_wake_summary">Lautstärketasten benutzen um das Telefon aufzuwecken.</string>
     <string name="status_bar_settings">Statusleiste</string>
-    <string name="complete_settings">Alle Einstellungen</string>
-    <string name="common_settings">Allgemeine Einstellungen</string>
+    <string name="complete_settings">Erweitert</string>
+    <string name="common_settings">Allgemein</string>
     <string name="launcher_settings_title">Launcher</string>
     <string name="battery_settings">Batterie</string>
     <string name="battery_settings_title">Batterie</string>
