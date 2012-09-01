@@ -1582,12 +1582,13 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
     <string name="back_long_press">Zurück Taste</string>
     <string name="enable_back_long_press">Lange zurück Taste drücken um App zu schließen</string>
     <string name="back_long_press_timeout">"Verzögerun in Sekunden"</string>
-    <string name="power_key">Power Taste</string>   
+    <string name="power_key">Power Taste</string>
+   
     <string name="menu_key">Menue Taste</string>
     <string name="menu_new">Neuer APN</string>
     <string name="menu_restore">Zuruecksetzten</string>
     <string name="menu_save">Speichern</string>
-    <string name="menu_stats_last_unplugged">Waehrend des letzten Aussteckens fuer %1&d</string>
+    <string name="menu_stats_last_unplugged">Waehrend des letzten Aussteckens fuer %1$s</string>
     <string name="menu_stats_refresh">Aktualisieren</string>
     <string name="menu_stats_total">Nutzung insgesamt</string>
     <string name="menu_stats_unplugged">%1$s seit austecken</string>
