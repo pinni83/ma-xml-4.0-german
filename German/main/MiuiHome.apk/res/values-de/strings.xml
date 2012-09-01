@@ -85,7 +85,7 @@
 <string name="widget_gadget_player">Musik</string>
 <string name="buffering">Zwischenspeichern…</string>
 <string name="emptyplaylist">Die Playlist ist leer</string>
-<string name="unknown_artist_name">Unbekannter Künstler</string
+<string name="unknown_artist_name">Unbekannter Künstler</string>
 <string name="unnamed_folder_name">Unbenannter Ordner</string>
 <string name="global_search_hint">Suchbegriff eingeben</string>
 <string name="widget_global_search">Globale Suche</string>
