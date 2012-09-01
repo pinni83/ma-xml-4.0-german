@@ -2,6 +2,11 @@
 <resources>
 <string name="home_indicator">bottom_point</string>
 <string name="wallpaper_scrolling">Scrolling</string>
+<string name="upside_edit_bar_empty">Leer</string>
+<string name="upside_edit_bar_select_app">Waehle App</string>
+<string name="upside_edit_bottom_empty_tip">Tippe auf das Rechteck zum bearbeiten</string>
+<string name="upside_enter_tip">Slide mit 2 Fingern runter um zu Free Home zu wechseln</string>
+<string name="upside_exit_tip">Silde mit 2 Fingern hoch um Free Home zu beenden</string>
 <string name="application_name">MiuiHome</string>
 <string name="folder_name">Ordner</string>
 <string name="chooser_wallpaper">Hintergrund auswählen</string>
