@@ -1,49 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Wlan Daten</item>
-        <item>Alle Anwendungen</item>
+        <item>WLAN-Daten</item>
+        <item>Alle Apps</item>
     </string-array>
     <string-array name="system_package_label">
-	  <item>Browser</item>
-        <item>Dateibrowser</item>
-        <item>Gallerie</item>
-        <item>Rechte Manager</item>
+        <item>Browser</item>
+        <item>Dateiexplorer</item>
+        <item>Galerie</item>
+        <item>Berechtigungen-Verwalter</item>
         <item>Kamera</item>
-        <item>Netzwerk Assistent</item>
-	</string-array>
+        <item>Netzwerk-Assistent</item>
+    </string-array>
     <string-array name="system_data_label">
-	 <item>Contacts</item>
-        <item>Anruflisten</item>
-        <item>SMS</item>
+        <item>Kontakte</item>
+        <item>Anrufliste</item>
+        <item>Nachrichten</item>
         <item>MMS</item>
-        <item>System</item>
-        <item>Wlan</item>
-        <item>Desktop Layout</item>
-        <item>Alarm</item>
+        <item>Systemeinstellungen</item>
+        <item>WLAN-Einstellungen</item>
+        <item>Desktop-Layout</item>
+        <item>Alarmeinstellungen</item>
         <item>Notizen</item>
-        <item>Privat</item>
-        <item>Konto</item>
-	</string-array>
+        <item>DND</item>
+        <item>Benutzerkonto</item>
+    </string-array>
     <string-array name="app_type_desc">
-        <item>Daten</item>
-        <item>Anwendung</item>
-        <item>Anwendung und Daten</item>
+        <item>(Daten)</item>
+        <item>(Apps)</item>
+        <item>(Daten + Apps)</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Kontakte</item>
-        <item>Telefonlisten</item>
-        <item>SMS/MMS</item>
-        <item>Wlan</item>
+        <item>Anrufliste</item>
+        <item>Nachrichten</item>
+        <item>WLAN-Einstellungen</item>
         <item>Notizen</item>
     </string-array>
     <string-array name="cloud_account_data">
         <item>Kontakte</item>
-        <item>Wlan</item>
+        <item>WLAN-Einstellungen</item>
         <item>Notizen</item>
     </string-array>
     <string-array name="cloud_sim_data">
-        <item>Anruflisten</item>
+        <item>Anrufliste</item>
         <item>Nachrichten</item>
     </string-array>
 </resources>
