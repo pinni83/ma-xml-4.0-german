@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="all_ringtone_resource">Alle</string>
     <string name="app_name">Themen</string>
     <string name="theme_activity_lable">Themen</string>
     <string name="theme_changing_dialog_title">Neues Thema wird verarbeitet, bitte warten...</string>
@@ -64,4 +65,6 @@
 <string name="title_download_resource">Download Ressourcen </string>
 <string name="component_lockstyle_personal_title">Einstellungen</string>
 <string name="lockstyle_personal_settings">Customization</string>
+<string name="long_ringtone_resource">Lang (&lt;5sec)</string>
+<string name="short_ringtone_resource">Kurz (&lt;5sec)</string>
 </resources>

@@ -128,6 +128,12 @@
     <string name="pref_netwotk_speed_internal_summary">Network speed update every %d seconds</string>
 <string name="adjust_traffic_sms_template_update">Update SMS template</string>
 <string name="adjust_traffic_update">Update</string>
+<string name="adjust_traffic_carrier_adjusting">Betreiber einstellungen</string>
+<string name="adjust_traffic_carrier_summary_more_onemonth_before">Wurde seit mehr als einem Monat nicht aktualisiert</string>
+<string name="adjust_traffic_carrier_summary_more_oneweek_before">Wurde seit mehr als einer Woche nicht aktualisiert</string>
+<string name="adjust_traffic_carrier_summary_more_three_day_before">Wurde seit mehr als 3 Tagen nicht aktualisiert</string>
+<string name="adjust_traffc_carrier_summary_today">Heute aktualisiert um %1$02d:%2$02d</string>  
+<string name="adjust_traffc_carrier_summary_yesterday">Gestern aktualisiert um %1$02d:%2$02d</string>
 <string name="sync_setting_city">Sync with city location</string>
 <string name="update_fail">Aktualisierung fehlgeschlagen!</string>
 <string name="update_success">Aktualisierung erfolgreich!</string>
