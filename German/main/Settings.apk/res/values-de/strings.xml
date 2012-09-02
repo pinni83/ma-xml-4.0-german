@@ -1580,8 +1580,8 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
     <string name="key_settings_title">Tasten Optionen</string>
     <string name="key_settings">Schaltfläche</string>
     <string name="back_long_press">Zurück Taste</string>
-    <string name="enable_back_long_press">Lange zurück Taste drücken um App zu schließen</string>
-    <string name="back_long_press_timeout">"Verzögerun in Sekunden"</string>
+    <string name="enable_back_long_press"> Lange drücken um App zu schließen</string>
+    <string name="back_long_press_timeout">"Verzögerung in Sekunden"</string>
     <string name="power_key">Power Taste</string>
    
     <string name="menu_key">Menue Taste</string>
@@ -1638,7 +1638,7 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
     <string name="led_pulse_summary">Permanentes Blinken bei Eingang einer neuen Nachricht</string>
     <string name="show_rounded_corners">Zeige runde Ecken</string>
     <string name="show_rounded_corners_summary">Neustart erforderlich</string>
-<string name="enable_snapshot_screenlock">Zurück Key lange drücken um ein Screenshot im Lock Screen aufzunehmen</string>
+<string name="enable_snapshot_screenlock">Lange drücke fuer Screenshot im Lockscreen</string>
 <string name="font_size_huge">Huge</string>
 <string name="font_size_large">Large</string>
 <string name="font_size_medium">Medium</string>
