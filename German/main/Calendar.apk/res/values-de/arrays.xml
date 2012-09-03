@@ -2,7 +2,7 @@
 <resources>
     <string-array name="reminder_methods_labels">
         <item>Benachrichtigung</item>
-        <item>Email</item>
+        <item>E-Mail</item>
         <item>SMS</item>
     </string-array>
     <integer-array name="reminder_methods_values">
@@ -269,7 +269,7 @@
     <string-array name="availability">
         <item>Beschäftigt</item>
         <item>Verfügbar</item>
-        <item>Tentative</item>
+        <item>Vorläufig</item>
     </string-array>
     <integer-array name="availability_values">
         <item>0</item>
