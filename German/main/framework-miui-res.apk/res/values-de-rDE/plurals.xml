@@ -19,10 +19,10 @@
         <item quantity="other">Kürzlich</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">Half an hour ago</item>
+        <item quantity="other">Vor einer halben Stunde</item>
     </plurals>
     <plurals name="abbrev_in_a_hour">
-        <item quantity="other">One hour ago</item>
+        <item quantity="other">Vor einer Stunde</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">In einer Stunde</item>
@@ -31,7 +31,7 @@
         <item quantity="other">Vor weniger als 1 Minute</item>
     </plurals>
     <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Vor einer halben  Stunde</item>
+        <item quantity="other">Vor einer halben Stunde</item>
     </plurals>
     <plurals name="abbrev_in_less_than_one_minute">
         <item quantity="other">Sofort</item>
