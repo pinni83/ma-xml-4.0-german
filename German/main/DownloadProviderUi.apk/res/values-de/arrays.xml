@@ -2,7 +2,7 @@
 <resources>
     <string-array name="download_filters">
         <item>Alle Downloads</item>
-        <item>Fertige</item>
+        <item>Abgeschlossene</item>
         <item>Laufende</item>
     </string-array>
     <string-array name="prefEntries_max_bytes_limit">
