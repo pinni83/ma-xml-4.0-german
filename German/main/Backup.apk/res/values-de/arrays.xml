@@ -22,7 +22,7 @@
         <item>Desktop-Layout</item>
         <item>Alarmeinstellungen</item>
         <item>Notizen</item>
-        <item>DND</item>
+        <item>Wächter</item>
         <item>Benutzerkonto</item>
     </string-array>
     <string-array name="app_type_desc">

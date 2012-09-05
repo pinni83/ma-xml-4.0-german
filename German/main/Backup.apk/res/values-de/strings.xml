@@ -114,7 +114,7 @@
   <string name="restore_launcher_layout_hit">(Hinweis: Wiederherstellen des Launcher-Layouts)</string>
   <string name="restore_progress">Es wird wiederhergestellt...</string>
   <string name="restore_report">Wiederherstellungsbericht</string>
-  <string name="restore_telephony_hit">(Hinweis: Der Wiederherstellungsprozess wird die Telefon-Applikation neustarten)</string>
+  <string name="restore_telephony_hit">(Hinweis: Der Wiederherstellungsprozess wird die Telefon-Anwendung neu starten)</string>
   <string name="retry">Erneut versuchen</string>
   <string name="reverse_all">Alle löschen</string>
   <string name="sc_bad_request">Ungültige Anfrage</string>
