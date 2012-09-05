@@ -21,8 +21,8 @@
         <item quantity="one">Künstler</item>
     </plurals>
     <plurals name="Nplaylists">
-        <item quantity="other">Playlists</item>
-        <item quantity="one">Playlist</item>
+        <item quantity="other">Wiedergabelisten</item>
+        <item quantity="one">Wiedergabeliste</item>
     </plurals>
     <plurals name="Nfolders">
         <item quantity="other">" Ordner"</item>
@@ -45,20 +45,20 @@
         <item quantity="one">%d Ordner ausgewählt</item>
     </plurals>
     <plurals name="Nplaylists_batch_selection">
-        <item quantity="other">%d Playlists ausgewählt</item>
-        <item quantity="one">%d Playlist ausgewählt</item>
+        <item quantity="other">%d Wiedergabelisten ausgewählt</item>
+        <item quantity="one">%d Wiedergabeliste ausgewählt</item>
     </plurals>
     <plurals name="Ntrack_in_sdcard_format">
         <item quantity="other">%d Lieder auf der SD-Karte</item>
         <item quantity="one">%d Lied auf der SD-Karte</item>
     </plurals>
     <plurals name="NNNtrackstoplaylist">
-        <item quantity="other">%d Lieder wurden zur Playlist hinzugefügt.</item>
-        <item quantity="one">Lied wurde zur Playlist hinzugefügt.</item>
+        <item quantity="other">%d Lieder wurden zur Wiedergabeliste hinzugefügt.</item>
+        <item quantity="one">Lied wurde zur Wiedergabeliste hinzugefügt.</item>
     </plurals>
     <plurals name="NNNtrackstofavoriteplaylist">
-        <item quantity="other">%d Lieder zur Playlist hinzugefügt.</item>
-        <item quantity="one">Lied zur Playlist hinzugefügt.</item>
+        <item quantity="other">%d Lieder zur Wiedergabeliste hinzugefügt.</item>
+        <item quantity="one">Lied zur Wiedergabeliste hinzugefügt.</item>
     </plurals>
     <plurals name="Nonlinecategory">
         <item quantity="other">" Kategorien"</item>
