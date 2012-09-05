@@ -49,8 +49,8 @@
   <string name="emptylist_fwlog_ms">Alle blockierten SMS- und MMS-Nachrichten werden hier protokolliert.</string>
   <string name="enable_firewall">Firewall aktivieren</string>
   <string name="firewall_action">Blockierverfahren</string>
-  <string name="firewall_log">DND-Protokoll</string>
-  <string name="firewall_settings">DND-Einstellungen</string>
+  <string name="firewall_log">Wächter-Protokoll</string>
+  <string name="firewall_settings">Wächter-Einstellungen</string>
   <string name="firewall_settings_tab_title">Filter</string>
   <string name="fw_action_settings">Firewall-Einstellungen</string>
   <string name="fw_add_keyword">Zu überwachende Stichworte hinzufügen</string>
