@@ -1646,6 +1646,8 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
 <string name="font_size_preview">MIUI</string>
 <string name="font_size_small">Klein</string>
 <string name="font_size_summary">Adjust font size or layouts of applications such as; Phone, Messaging, Contacts etc, to increase readability and usability.</string>
-  <string name="screen_on_proximity_sensor_summary">Verhinder Handyfunktionen wenn das Handy lose in einer Tasche ist(Erkennen via Näherungssensor).</string>
-  <string name="screen_on_proximity_sensor_title">Verhinder Fehlbedinung</string>
+  <string name="screen_on_proximity_sensor_summary">Verhindere Handyfunktionen wenn das Handy lose in einer Tasche ist(Erkennen via Näherungssensor).</string>
+  <string name="screen_on_proximity_sensor_title">Verhindere Fehlbedinung</string>
+    <string name="device_miui_version">MIUI Version:</string>
+
 </resources>

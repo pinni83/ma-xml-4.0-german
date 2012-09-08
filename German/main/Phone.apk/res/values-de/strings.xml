@@ -965,4 +965,5 @@ Achtung! Bei einem weiterem Fehlversuch wird die SIM Karte unbrauchbar!"</string
 <string name="auto_record_whitelist_summary_for_one_miui">1</string>
 <string name="auto_record_whitelist_summary_miui">%d Nummern</string>
 <string name="call_record_setting_miui">Ruf aufzeichen Einstellungen</string>
+<string name="call_record_path_name_of_sdcard_miui">SD Karte</string>
 </resources>

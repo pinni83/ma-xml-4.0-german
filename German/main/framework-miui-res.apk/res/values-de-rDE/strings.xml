@@ -60,6 +60,7 @@
   <string name="android_silent_mode_vibrate">@android:string/silent_mode_vibrate</string>
   <string name="android_ssl_certificate">@android:string/ssl_certificate</string>
   <string name="android_ssl_certificate_is_valid">@android:string/ssl_certificate_is_valid</string>
+   <string name="android_storage_usb">@*android:string/storage_usb</string>
   <string name="android_terabyteShort">@android:string/terabyteShort</string>
   <string name="android_today">@android:string/today</string>
   <string name="android_tomorrow">@android:string/tomorrow</string>
