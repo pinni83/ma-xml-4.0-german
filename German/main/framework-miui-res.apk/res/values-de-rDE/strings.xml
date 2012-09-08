@@ -3,6 +3,7 @@
   <string name="activate">Aktivieren</string>
   <string name="activate_fail_notification_title">Bitte reaktiviere den Xiaomi-Synchronisationsdienst</string>
   <string name="activating">Wird aktiviert...</string>
+  <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="all_resources">Alle</string>
   <string name="android_byteShort">@android:string/byteShort</string>
   <string name="android_common_last_name_prefixes">@android:string/common_last_name_prefixes</string>
@@ -499,9 +500,10 @@
   <string name="user_agreement2">" Nutzungsvereinbarungen"</string>
   <string name="user_agreement3">" und "</string>
   <string name="user_agreement4">Datenschutzerklärung</string>
-  <string name="user_agreement5">，Mit Berühren von Ok zeigst du, dass du mit dem obigen Inhalt einverstanden bist. Berühre Abbrechen zum Beenden.</string>
+  <string name="user_agreement5">Mit Berühren von Ok zeigst du, dass du mit dem obigen Inhalt einverstanden bist. Berühre Abbrechen zum Beenden.</string>
   <string name="valentines_day" />
   <string name="vernal_equinox" />
+  <string name="wake_alarm_message">Alarm anhalten. Erinnern in %s </string>
   <string name="white_dews" />
   <string name="winter_begins" />
   <string name="winter_solstice" />
