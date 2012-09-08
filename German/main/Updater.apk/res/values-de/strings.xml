@@ -132,4 +132,6 @@
 <string name="update_happy">glücklich</string>
 <string name="update_sad">unzufrieden</string>
 <string name="worst_update">3. das schlechteste Update</string>
+  <string name="install_qq">Installiere QQ App</string>
+<string name="install_sina">Installiere Sina App</string>
 </resources>
