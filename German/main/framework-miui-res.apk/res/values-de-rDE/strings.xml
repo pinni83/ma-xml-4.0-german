@@ -464,6 +464,7 @@
   <string name="safetylegal_activity_unreachable">Dein Telefon ist mit keinem Datendienst verbunden. Um diese Information nun anzusehen, gehe von jedem Computer, der mit dem Internet verbunden ist, auf %s.</string>
   <string name="screen_on_proximity_sensor_hint">"Beenden erzwingen: Lange die 'Power' Taste drücken. Fehlbedinung verhindern Modus kann unter  'Einstellungen - Display' deaktiviert werden"</string>
   <string name="screen_on_proximity_sensor_summary">"Fehlbedinung verhindern Modus ist derzeit aktiv. Bitte stelle sicher das der obere Teil vom Display nicht abgedeckt ist."</string>
+  <string name="screen_on_proximity_sensor_title">Fehlbedinung verhindern</string>
   <string name="sd_not_available">SD-Karte ausgehängt oder nicht verfügbar</string>
   <string name="sd_not_available_low_internal_storage">SD-Karte ausgehängt oder nicht verfügbar, auf dem internen Speicher ist nur wenig Platz</string>
   <string name="sd_not_available_saved_to_internal_storage">Auf internem Speicher gespeichert</string>
