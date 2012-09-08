@@ -38,7 +38,7 @@
   <string name="find_device_error_server">Serverfehler</string>
   <string name="find_device_notice">"Wenn du dein Gerät nicht lokalisieren kannst, gehe auf my.xiaomi.com um es zu finden, zu sperren oder deine Daten zu löschen"</string>
   <string name="find_device_success_title">Lokalisierungsfunktion ist nicht aktiviert</string>
-  <string name="forget_password"/>Passwort vergessen</string>
+  <string name="forget_password">Passwort vergessen</string>
   <string name="header_data_and_synchronization">Data &amp; Sync</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Password eingeben</string>
@@ -52,7 +52,7 @@
   <string name="micloud_account_name">Xiaomi-Account</string>
   <string name="micloud_account_not_actived">Account ist nicht aktiviert</string>
   <string name="micloud_active_email_sent_1">Wir haben den Aktivierungslink an deine E-Mail gesendet:</string>
-  <string name="micloud_active_email_sent_2"/></string>
+  <string name="micloud_active_email_sent_2"></string>
   <string name="micloud_active_email_visit">Besuche %s</string>
   <string name="micloud_activing_account">Aktiviere deinen Account...</string>
   <string name="micloud_click_email">Clicke den Link in der E-Mail um deinen Xiaomi-Account zu aktivieren</string>
