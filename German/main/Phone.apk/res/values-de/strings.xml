@@ -51,10 +51,8 @@
     <string name="audio_mode_earpiece">Kopfhörer</string>
     <string name="audio_mode_wired_headset">Headset</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
-    <string name="wait_prompt_str">"Folgende Töne senden?
-"</string>
-    <string name="pause_prompt_str">"Töne werden gesendet
-"</string>
+    <string name="wait_prompt_str">"Folgende Töne senden?"</string>
+    <string name="pause_prompt_str">"Töne werden gesendet"</string>
     <string name="send_button">Senden</string>
     <string name="pause_prompt_yes">Ja</string>
     <string name="pause_prompt_no">Nein</string>
@@ -953,10 +951,18 @@ Achtung! Bei einem weiterem Fehlversuch wird die SIM Karte unbrauchbar!"</string
 <string name="network_work_query_failed_message_miui">"Network query failed, press 'cancel' to select preferred network automatically or press 'ok' to retry"</string>
 <string name="next_miui">Next</string>
 <string name="register_network_failed_message_miui">"Cannot register to the network you selected, would you like to select preferred network automatically?"</string>
-<string name="register_network_failed_title_miui">Service not available</string>
+<string name="register_network_failed_title_miui">Service nicht verfügbar</string>
 <string name="sum_select_automatically_option_miui">Automatically select preferred network, %s</string>
 <string name="turn_off_auto_select_confirm_message_miui">The signal and network may be unavailable, are you sure to turn off this option?</string>
 <string name="turn_off_auto_select_title_miui">Turn off network auto selection</string>
 <string name="turn_off_auto_select_warning_message_miui">After turning off this option, it will use the network you selected manually and will not register to another network</string>
 <string name="turn_off_miui">turn-off</string>
+<string name="auto_record_scenario_enteries_always_miui">Automatisch aufzeichnen für alle Rufnummern</string>
+<string name="auto_record_scenario_enteries_whitelist_miui">Automatisch aufzeichnen für ausgewählte Rufnummern</string>
+<string name="auto_record_scenario_title_miui">Automatisch aufzeichnen Modus</string>
+<string name="auto_record_whitelist_miui">Ausgewählte Rufnummern einstellen</string>
+<string name="auto_record_whitelist_no_item_miui">Klick unten um Rufnummern fürs automatische aufzeichnen hinzuzufügen</string>
+<string name="auto_record_whitelist_summary_for_one_miui">1</string>
+<string name="auto_record_whitelist_summary_miui">%d Nummern</string>
+<string name="call_record_setting_miui">Ruf aufzeichen Einstellungen</string>
 </resources>

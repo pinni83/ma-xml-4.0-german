@@ -19,6 +19,10 @@
   <string name="Dashboard_Perm_HIPS_Switch">Berechtigungsüberwachung</string>
   <string name="Dashboard_Perm_Header">%1$d Apps werden überwacht</string>
   <string name="Dashboard_Perm_Header_Disabled">Berechtigungsüberwachung ist deaktiviert</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT ist nicht verfügbar in STABLE MIUI Versionen</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"3rd party Apps ROOT gewähren kann das System instabil machen, oder persöhnliche Daten, das System oder die Hardware beschädigen. Bitte wechsel zu einer Entwicklungsversion von MIUI  um ROOT Rechte zu aktivieren."</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI herunterladen</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
   <string name="Dashboard_Perm_SU">ROOT-Berechtigungen verwalten</string>
   <string name="Dashboard_Perm_SU_Desc">%1$d Apps mit ROOT-Berechtigungen werden überwacht</string>
   <string name="Dashboard_Perm_SU_Disabled">ROOT-Berechtigung ist deaktiviert</string>
@@ -124,6 +128,7 @@
   <string name="HIPS_Perm_PromptAll">Bei allen fragen</string>
   <string name="HIPS_Perm_ROOT">ROOT</string>
   <string name="HIPS_Perm_ROOT_Desc">ROOT-Berechtigung anfragen</string>
+  <string name="HIPS_Perm_ROOT_Desc_Stable">Nicht verfügbar in der MIUI Stable Version</string>
   <string name="HIPS_Perm_ROOT_Hint">%1$s Apps dürfen ROOT-Berechtigung erhalten</string>
   <string name="HIPS_Perm_ROOT_Title">ROOT-Berechtigung erhalten</string>
   <string name="HIPS_Perm_RejectAll">Alle ablehnen</string>

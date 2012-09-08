@@ -66,10 +66,12 @@
   <string name="menu_workspace_preview">Vorschau</string>
   <string name="out_of_space">Es ist kein Platz mehr auf diesem Startbildschirm vorhanden.</string>
   <string name="permdesc_install_shortcut">Anwendungen erlauben, Verknüpfungen ohne Eingriff des Benutzers hinzuzufügen.</string>
+  <string name="permdesc_install_widget">Anwendungen erlauben, Widgets ohne Eingriff des Benutzers hinzuzufügen.</string>
   <string name="permdesc_read_settings">Anwendungen erlauben, die Einstellungen und Verknüpfungen des Launchers zu lesen.</string>
   <string name="permdesc_uninstall_shortcut">Anwendungen erlauben, Verknüpfungen ohne Eingriff des Benutzers zu entfernen.</string>
   <string name="permdesc_write_settings">Anwendungen erlauben, die Einstellungen und Verknüpfungen des Launchers zu ändern.</string>
   <string name="permlab_install_shortcut">Verknüpfungen installieren</string>
+  <string name="permlab_install_widget">Widgets installieren</string>
   <string name="permlab_read_settings">Launcher-Einstellungen und -Verknüpfungen lesen</string>
   <string name="permlab_uninstall_shortcut">Verknüpfungen deinstallieren</string>
   <string name="permlab_write_settings">Launcher-Einstellungen und -Verknüpfungen bearbeiten</string>

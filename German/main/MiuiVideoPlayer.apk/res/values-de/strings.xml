@@ -11,6 +11,8 @@
   <string name="adjust_position_prev_media_notice">Zurück</string>
   <string name="airkan_control_device_des">Du kannst die Videowiedergabe mit dem Button unten steuern</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
+  <string name="airkan_video_playing" />
+  <string name="airkan_video_playing_in">Video läuft…</string>
   <string name="app_name">MiVideo</string>
   <string name="buffering">Pufferung...</string>
   <string name="hello">VideoPlayerActivity</string>
@@ -19,9 +21,13 @@
   <string name="menu_item_hide_media_info_label">Medieninfo ausblenden</string>
   <string name="menu_item_media_info_label">Medieninfo anzeigen</string>
   <string name="menu_item_switch_width_height_label">Seitenverhältnis ändern</string>
+  <string name="menu_item_orientation_auto_sensor_action">Rotation aktivieren</string>
+  <string name="menu_item_orientation_fixed_by_videosize_action">Rotation deaktivieren</string>
+  <string name="menu_item_screen_shot">Screenshots</string>
   <string name="menu_wh_item_adapt_height_label">An Höhe anpassen</string>
   <string name="menu_wh_item_adapt_width_label">An Breite anpassen</string>
   <string name="menu_wh_item_auto_select_label">Automatisch anpassen</string>
+  <string name="menu_wh_item_full_screen_label">Vollbild</string>
   <string name="menu_wh_item_using_16_9_label">16:9</string>
   <string name="menu_wh_item_using_4_3_label">4:3</string>
   <string name="toast_back_key_pressed_notice">Drücke zum Beenden erneut die Zurücktaste.</string>

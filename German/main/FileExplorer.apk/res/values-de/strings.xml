@@ -173,6 +173,8 @@
   <string name="ui_main_menu_option_setting">Einstellungen</string>
   <string name="ui_main_menu_option_task_manage">Übertragungsverwaltung</string>
   <string name="ui_main_progress_txt_open_file">Wird heruntergeladen...</string>
+  <string name="ui_main_toast_favorite_removed">Favorit/en entfernt</string>
+  <string name="ui_main_toast_operation_failed">Favorit %1$s entfernen fehlgeschlagen.</string>
   <string name="ui_main_toast_shareLink_err">Erstellen des externen Ordnerlinks fehlgeschlagen</string>
   <string name="ui_main_toast_shareLink_header">Ich habe %1$s über MiDrive geteilt, klicke bitte auf den folgenden Link zum Anzeigen:</string>
   <string name="ui_task_menu_clean">Alle Aufgaben löschen</string>
