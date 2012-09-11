@@ -75,6 +75,8 @@
   <string name="edit">Bearbeiten</string>
   <string name="edited_photo_bucket_name">Bearbeitet</string>
   <string name="empty_album">Keine Bilder/Videos verfügbar.</string>
+  <string name="error_should_not_select_image">Achtung: Bitte keine Bild Datei auswählen.</string>
+  <string name="error_should_not_select_video">Achtung: Bitte keine Video Datei auswählen.</string>
   <string name="expand_album_in_home_page">Album auf Startseite erweitern</string>
   <string name="exposure_time">Belichtungszeit</string>
   <string name="facelift">Gesichtsglühen</string>

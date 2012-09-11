@@ -323,11 +323,13 @@
   <string name="description_author">Autor:</string>
   <string name="description_designer">Designer:</string>
   <string name="description_download">Download:</string>
+  <string name="description_downloadtime">Download Zeit:</string>
   <string name="description_file">Datei:</string>
   <string name="description_missed">N/A</string>
   <string name="description_modifiedtime">Geändert:</string>
   <string name="description_size">Größe:</string>
   <string name="description_unknown">Unbekannt</string>
+  <string name="description_uploadtime">Hochgeladen am:</string>
   <string name="description_version">Version:</string>
   <string name="double_seventh_day">七夕</string>
   <string name="download_failed">Download fehlgeschlagen</string>
