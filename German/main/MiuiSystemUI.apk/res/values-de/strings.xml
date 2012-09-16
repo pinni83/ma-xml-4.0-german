@@ -132,7 +132,7 @@
   <string name="move_data_to_sdcard_title">Interne Daten auf SD-Karte exportieren</string>
   <string name="no_vibrate_hint">Deinen Einstellungen zufolge, werden eingehende Anrufe und SMS nicht vibrieren. Das Aktivieren der Vibration hat keinen Effekt</string>
   <string name="not_all_vibrate_hint">Deinen Einstellungen zufolge vibriert %1$s und %2$s vibriert nicht. Du kannst das unter Einstellungen &gt; Töne &gt; Vibrieren</string>
-  <string name="notification_icon_filter">Statusleiste-Benachrichtigungen anpassen</string>
+  <string name="notification_icon_filter">Statusleisten-Benachrichtigungen</string>
   <string name="notification_icon_filter_hide">Benachrichtigungen nicht in der Statusleiste anzeigen</string>
   <string name="notification_icon_filter_list_empty_summary">Aktuelle Liste ist leer</string>
   <string name="notification_icon_filter_menu_item_hide">Benachrichtigungen dieser App nicht in der Statusleiste anzeigen</string>
@@ -175,10 +175,10 @@
   <string name="settings_expandable_under_keyguard_summary">Funktioniert nur in nicht gesicherten Sperrbildschirmen</string>
   <string name="settings_expanded_view">Erweiterte Benachrichtigungen</string>
   <string name="settings_notification_icon">Benachrichtigungen in der Statusleiste</string>
-  <string name="settings_screenshot_notification_disabled">Bildschirmfoto anzeigen</string>
+  <string name="settings_screenshot_notification_disabled">Für Bildschirmfotos</string>
   <string name="settings_separator">,</string>
-  <string name="settings_show_flow_info">Info zum Datenverbrauch anzeigen</string>
-  <string name="settings_show_network_speed">Netzwerkgeschwindigkeit anzeigen</string>
+  <string name="settings_show_flow_info">Info zum Datenverbrauch</string>
+  <string name="settings_show_network_speed">Netzwerkgeschwindigkeit</string>
   <string name="settings_toggle">Schalter</string>
   <string name="settings_toggle_collapse_after_clicked">Nach Berührung ausblenden</string>
   <string name="settings_toggle_layout_style">Schater-Anordnung</string>

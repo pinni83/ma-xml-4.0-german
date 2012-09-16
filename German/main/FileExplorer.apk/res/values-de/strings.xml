@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="app_name">Dateiexplorer</string>
+  <string name="app_name">Explorer</string>
   <string name="cancel">Abbrechen</string>
   <string name="category_all">Alle</string>
   <string name="category_apk">APKs</string>
@@ -84,7 +84,7 @@
   <string name="local_cache">Lokaler Cache</string>
   <string name="local_cache_size">Lokale Cache-Größe: %s</string>
   <string name="login_reg_content">MiDrive hilft dir, Dateien zu speichern und sie zwischen mehreren Geräten zu synchronisieren.</string>
-  <string name="login_reg_login_xiaomi">In Xiaomi-Benutzerkonto anmelden</string>
+  <string name="login_reg_login_xiaomi">In Xiaomi-Konto anmelden</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Suchen</string>
   <string name="menu_item_sort">Sortiert nach</string>
@@ -189,6 +189,6 @@
   <string name="wangpan_root_path">Mein Speicher</string>
   <string name="wifi_notication">Alle Aufgaben sind bereit über WLAN zu starten</string>
   <string name="wifi_state">WLAN-Status</string>
-  <string name="xiaomi_account">Xiaomi-Benutzerkonto</string>
+  <string name="xiaomi_account">Xiaomi-Konto</string>
   <string name="yes">Ja</string>
 </resources>

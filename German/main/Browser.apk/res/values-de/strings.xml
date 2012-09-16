@@ -265,9 +265,9 @@
   <string name="pref_data_preload_dialogtitle">Suchergebnisse vorladen</string>
   <string name="pref_data_preload_summary">Dem Browser erlauben, wahrscheinliche Suchergebnisse im Hintergrund vorzuladen</string>
   <string name="pref_data_preload_title">Suchergebnisse vorladen</string>
-  <string name="pref_data_preload_value_always">ALWAYS</string>
-  <string name="pref_data_preload_value_never">NEVER</string>
-  <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
+  <string name="pref_data_preload_value_always">Immer</string>
+  <string name="pref_data_preload_value_never">Niemals</string>
+  <string name="pref_data_preload_value_wifi_only">Nur mit WLAN-Verbindung</string>
   <string name="pref_data_title">Bandbreitenverwaltung</string>
   <string name="pref_default_text_encoding">Zeichencodierung</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
@@ -323,9 +323,9 @@
   <string name="pref_link_prefetch_dialogtitle">Webseiten vorladen</string>
   <string name="pref_link_prefetch_summary">Dem Browser erlauben, verlinkte Webseiten im Hintergrund vorzuladen</string>
   <string name="pref_link_prefetch_title">Webseiten vorladen</string>
-  <string name="pref_link_prefetch_value_always">ALWAYS</string>
-  <string name="pref_link_prefetch_value_never">NEVER</string>
-  <string name="pref_link_prefetch_value_wifi_only">WIFI_ONLY</string>
+  <string name="pref_link_prefetch_value_always">Immer</string>
+  <string name="pref_link_prefetch_value_never">Niemals</string>
+  <string name="pref_link_prefetch_value_wifi_only">Nur mit WLAN-Verbindung</string>
   <string name="pref_min_font_size">Minimale Schriftgröße</string>
   <string formatted="false" name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">Cache leeren</string>
