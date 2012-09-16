@@ -32,7 +32,7 @@
   <string name="add_to_bookmarks_menu_option">Lesezeichen</string>
   <string name="add_to_homescreen_menu_option">Startbildschirm</string>
   <string name="add_to_other_folder_menu_option">Anderer Ordner</string>
-  <string name="add_xiaomi_account_warning">Melde dich bitte zuerst mit deinem Xiaomi-Benutzerkonto an</string>
+  <string name="add_xiaomi_account_warning">Melde dich bitte zuerst mit deinem Xiaomi-Konto an</string>
   <string name="added_to_bookmarks">Zu den Lesezeichen hinzugefügt.</string>
   <string name="allow">Erlauben</string>
   <string name="application_name">Browser</string>
@@ -174,15 +174,15 @@
   <string name="import_bookmark">Lesezeichen importieren</string>
   <string name="import_bookmark_failure">Import der Lesezeichen fehlgeschlagen!</string>
   <string name="import_bookmark_sucess">Lesezeichen wurden erfolgreich importiert</string>
-  <string name="import_bookmarks_dialog_add">Lesezeichen zum Google-Benutzerkonto hinzufügen</string>
+  <string name="import_bookmarks_dialog_add">Lesezeichen zum Google-Konto hinzufügen</string>
   <string formatted="false" name="import_bookmarks_dialog_confirm_add">Die derzeitigen Lesezeichen auf diesem Gerät hinzufügen und mit dem Synchronisieren mit %s beginnen?</string>
   <string formatted="false" name="import_bookmarks_dialog_confirm_delete">Die derzeitigen Lesezeichen auf diesem Gerät löschen und mit dem Synchronisieren mit %s beginnen?</string>
-  <string name="import_bookmarks_dialog_delete_select_account">Die derzeitigen Lesezeichen auf diesem Gerät löschen und mit dem Synchronisieren mit dem Google-Benutzerkonto beginnen</string>
-  <string name="import_bookmarks_dialog_description">"Die Lesezeichen auf diesem Gerät sind mit noch keinem Google-Benutzerkonto verbunden. Speichere diese Lesezeichen, indem du sie zu einem Benutzerkonto hinzufügst. Lösche sie, wenn du sie nicht synchronisieren willst."</string>
+  <string name="import_bookmarks_dialog_delete_select_account">Die derzeitigen Lesezeichen auf diesem Gerät löschen und mit dem Synchronisieren mit dem Google-Konto beginnen</string>
+  <string name="import_bookmarks_dialog_description">"Die Lesezeichen auf diesem Gerät sind mit noch keinem Google-Konto verbunden. Speichere diese Lesezeichen, indem du sie zu einem Benutzerkonto hinzufügst. Lösche sie, wenn du sie nicht synchronisieren willst."</string>
   <string formatted="false" name="import_bookmarks_dialog_import">Füge deine Android-Lesezeichen zu Lesezeichen für %s hinzu</string>
   <string name="import_bookmarks_dialog_remove">Lesezeichen löschen</string>
-  <string name="import_bookmarks_dialog_select_add_account">Füge die derzeitigen Lesezeichen auf diesem Gerät hinzu und beginne mit der Synchronisation mit deinem Google-Benutzerkonto</string>
-  <string name="import_bookmarks_dialog_title">Mit Google-Benutzerkonto synchronisieren</string>
+  <string name="import_bookmarks_dialog_select_add_account">Füge die derzeitigen Lesezeichen auf diesem Gerät hinzu und beginne mit der Synchronisation mit deinem Google-Konto</string>
+  <string name="import_bookmarks_dialog_title">Mit Google-Konto synchronisieren</string>
   <string name="import_bookmarks_wizard_cancel">Abbrechen</string>
   <string name="import_bookmarks_wizard_done">Fertig</string>
   <string name="import_bookmarks_wizard_next">Weiter</string>
@@ -367,7 +367,7 @@
   <string name="pref_text_zoom">Textskalierung</string>
   <string name="pref_ua_mione_entry">Mi-One</string>
   <string name="pref_ua_mione_value">6</string>
-  <string name="pref_ua_string">User-Ageng-String</string>
+  <string name="pref_ua_string">User-Agent</string>
   <string name="pref_ua_title">User-Agent-Verwaltung</string>
   <string name="pref_use_instant_search">Google Instant</string>
   <string name="pref_use_instant_search_summary">Google Instant beim benutzen der Google Suche verwenden, um Ergebnisse während dem Tippen anzuzeigen (dies kann die Datennutzung erhöhen).</string>
