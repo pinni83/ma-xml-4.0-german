@@ -31,9 +31,9 @@
   <string name="menu_wh_item_full_screen_label">Vollbild</string>
   <string name="menu_wh_item_using_16_9_label">16:9</string>
   <string name="menu_wh_item_using_4_3_label">4:3</string>
-  <string name="temp_play_history_button_label">Zeige Video Verlauf</string>
-  <string name="toast_back_key_pressed_notice">Drücke zum Beenden erneut die Zurücktaste.</string>
-    <string name="toast_message_continue_play_from">Weiter spielen ab</string>
+  <string name="temp_play_history_button_label">Videoverlauf anzeigen</string>
+  <string name="toast_back_key_pressed_notice">Drücke zum Beenden erneut die Zurück-Taste.</string>
+    <string name="toast_message_continue_play_from">Abspielen fortsetzen ab</string>
   <string name="toast_message_continue_play_hour">Stunden</string>
   <string name="toast_message_continue_play_minute">min</string>
   <string name="toast_message_continue_play_second_and_play">sek</string>
