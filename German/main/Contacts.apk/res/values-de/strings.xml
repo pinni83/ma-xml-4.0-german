@@ -12,7 +12,7 @@
   <string formatted="false" name="add_contact_dlg_message_fmt">\"%s\" zu den Kontakten hinzufügen?</string>
   <string name="add_contact_dlg_title">Kontakt hinzufügen</string>
   <string name="add_field">Ein weiteres Feld hinzufügen</string>
-  <string name="add_new_account">Neues Benutzerkonto hinzufügen</string>
+  <string name="add_new_account">Neues Konto hinzufügen</string>
   <string name="add_new_entry_for_section">Weiteres Feld</string>
   <string name="add_organization">Organisation hinzufügen</string>
   <string name="add_to_my_contacts">Zu meinen Kontakten hinzufügen</string>
@@ -199,8 +199,8 @@
   <string name="dialer_empty_text_no_call_log">Keine Anrufe</string>
   <string name="dialer_empty_text_no_search_result">Keine Kontakte gefunden</string>
   <string name="dialog_import_export">Kontakte importieren/exportieren</string>
-  <string name="dialog_new_contact_account">Kontakt unter dem Benutzerkonto erstellen</string>
-  <string name="dialog_new_group_account">Gruppe unter dem Benutzerkonto erstellen</string>
+  <string name="dialog_new_contact_account">Kontakt unter folgendem Benutzerkonto erstellen</string>
+  <string name="dialog_new_group_account">Gruppe unter folgendem Benutzerkonto erstellen</string>
   <string name="dialog_sync_add">Synchronisierungsgruppe hinzufügen</string>
   <string name="directory_search_label">Verzeichnis</string>
   <string formatted="false" name="dirty_contacts_notification_description">%d nicht synchronisierte Kontakte im lokalen Speicher</string>
@@ -279,6 +279,7 @@
   <string name="groupsLabel">Gruppen</string>
   <string name="hint_findContacts">Kontakte finden</string>
   <string formatted="false" name="hint_search_contacts">%d Kontakte</string>
+  <string name="hint_search_phone_numbers">%d Telefonnummern</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">IMEI</string>
   <string name="import_all_vcard_string">Alle vCard-Dateien importieren</string>
@@ -291,8 +292,8 @@
   <string name="import_to_xiaomi_account_confirm">Importieren</string>
   <string name="import_to_xiaomi_account_progress_finish">Import abgeschlossen</string>
   <string name="import_to_xiaomi_account_progress_message">Wird importiert...</string>
-  <string name="import_to_xiaomi_account_progress_title">Kontakte in Xiaomi-Benutzerkonto importieren</string>
-  <string name="import_to_xiaomi_account_title">Möchtest du die folgenden Kontakte in dein Xiaomi-Benutzerkonto importieren?</string>
+  <string name="import_to_xiaomi_account_progress_title">Kontakte in Xiaomi-Konto importieren</string>
+  <string name="import_to_xiaomi_account_title">Möchtest du die folgenden Kontakte in dein Xiaomi-Konto importieren?</string>
   <string name="import_vcard_description">Kontakte von SD-Karte importieren</string>
   <string formatted="false" name="importing_vcard_canceled_title">Das Importieren von %s wurde abgebrochen</string>
   <string formatted="false" name="importing_vcard_description">%s importieren</string>
@@ -330,7 +331,7 @@
   <string name="local_profile_title">Mein lokales Profil</string>
   <string name="local_search_label">Alle Kontakte</string>
   <string name="locale_change_in_progress">Die Kontaktliste wird aktualisiert, um die Änderungen der Sprache anzuzeigen.</string>
-  <string name="lunarBirthdayLabelsGroup">Mondgeburtstag</string>
+  <string name="lunarBirthdayLabelsGroup">Geburtstag</string>
   <string name="make_primary">Auswahl merken</string>
   <string formatted="false" name="map_custom">%s-Adresse ansehen</string>
   <string name="map_home">Privatadresse ansehen</string>
@@ -395,7 +396,7 @@
   <string name="nickname_picker_nickname_column">Titel</string>
   <string name="noAccounts">Du benötigst ein Benutzerkonto, um Gruppen erstellen zu können</string>
   <string name="noContactHelpTextAccountsInfo">Google synchronisieren, Exchange-Kontakte.</string>
-  <string name="noContactHelpTextImportXiaomiAccountInfo">Im Xiaomi- und Mitalk-Benutzerkonto gesicherten Daten wiederherstellen</string>
+  <string name="noContactHelpTextImportXiaomiAccountInfo">In Xiaomi- und Mitalk-Konto gesicherte Daten wiederherstellen</string>
   <string name="noContacts">Keine Kontakte</string>
   <string name="noContactsHelpText">"Du hast noch keine Kontakte, die angezeigt werden könnten.
 
@@ -420,7 +421,7 @@ So fügst du einen Kontakt deinen Favoriten hinzu:
   <string name="noGroups">Keine Gruppen</string>
   <string name="noMatchingContacts">Keine übereinstimmenden Kontakte gefunden.</string>
   <string name="noRecentContacts">Keine neuen Kontakte</string>
-  <string name="no_account_prompt">"Die Personen-App funktioniert am besten mit einem Google-Benutzerkonto.
+  <string name="no_account_prompt">"Die Personen-App funktioniert am besten mit einem Google-Konto.
 
 • Zugriff von jedem Webbroser aus.
 • Die Kontakte sicher gegen Datenverlust sichern."</string>
@@ -462,9 +463,9 @@ So fügst du einen Kontakt deinen Favoriten hinzu:
   <string name="postal_street">Straße</string>
   <string name="pref_key_rebuild_t9_index_message">Kontakte-Suchindizierungsfehler beheben</string>
   <string name="pref_key_rebuild_t9_index_title">T9-Indexdaten neu erstellen</string>
-  <string name="pref_summary_import_from_account">Kontakte aus meinem Google- und Exchange-Benutzerkonto in mein Xiaomi-Benutzerkonto importieren</string>
+  <string name="pref_summary_import_from_account">Kontakte aus meinem Google- und Exchange-Konto in mein Xiaomi-Konto importieren</string>
   <string name="pref_title_account_import">Aus Benutzerkonto importieren</string>
-  <string name="pref_title_import_from_account">In Xiaomi-Benutzerkonto importieren</string>
+  <string name="pref_title_import_from_account">In Xiaomi-Konto importieren</string>
   <string name="preference_displayOptions">Anzeigeoptionen</string>
   <string name="preference_export">Exportieren</string>
   <string name="preference_import">Importieren</string>
