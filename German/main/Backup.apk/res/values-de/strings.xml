@@ -12,6 +12,7 @@
   <string name="auto_backup_only_wifi">Nur automatisch sichern, wenn eine WLAN-Verbindung besteht</string>
   <string name="auto_backup_open">Automatische Sicherung</string>
   <string name="auto_backup_progress">Automatische Sicherung wird durchgeführt, bitte warten...</string>
+  <string name="auto_backup_setting_title">Automatische Sicherung einstellen</string>
   <string name="auto_backup_time">Zeitpunkt der Sicherung planen</string>
   <string name="backup">Sicherung</string>
   <string name="backup_delete">Löschen:</string>
