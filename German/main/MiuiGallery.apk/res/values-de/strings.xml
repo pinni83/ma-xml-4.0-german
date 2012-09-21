@@ -1,11 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="Import">Importieren</string>
+  <string name="account_not_login">Du kannst dich mit deinem Xiaomi-Konto anmelden und mit der Cloud synchronisieren. Somit werden geschossene Bilder automatisch in die Cloud-Verwaltung hochgeladen.string>
   <string name="activity_not_found">Keine Anwendung verfügbar, die diese Aktion ausführen kann.</string>
   <string name="add_account">Benutzerkonto hinzufügen</string>
   <string name="add_bookmark">Zu Favoriten hinzufügen</string>
   <string name="albums">Alben</string>
   <string name="alert">Hinweis</string>
+  <string name="alert_message_initial_cloud">Das System wird deine alten und neuen Fotos, sowie Bildschirmfotos nur dann automatisch hochladen, wenn eine WLAN-Verbindung besteht.</string>
   <string name="alert_message_sync_histoy_power_on">Standardmäßig werden Verlaufsbilder nur während dem Ladevorgang synchronisiert. Du kannst das Einstellungen-Menü verwenden, um die Option zu ändern.</string>
   <string name="all_album">Alle</string>
   <string name="all_albums_desc">Alben</string>
@@ -130,9 +132,12 @@
   <string name="loading_failure">Foto kann nicht geladen werden</string>
   <string name="loading_files">Wird geladen...</string>
   <string name="loading_image">Bild wird geladen...</string>
+  <string name="loading_thumbnail">Thumbnail wird geladen...</string>
   <string name="loading_video">Video wird geladen...</string>
+  <string name="loading_will_cost">Das Herunterladen von Bildern verbaucht Daten</string>
   <string name="location">Standort</string>
   <string name="locations">Standorte</string>
+  <string name="login_account">In Xiaomi-Konto anmelden &amp; Synchronisieren</string>
   <string name="lomoish">Lomo</string>
   <string name="make_available_offline">Offline verfügbar machen</string>
   <string name="maker">Hersteller</string>
@@ -175,6 +180,7 @@
   <string name="not_auto_create_recent_album">Neue Alben nicht automatisch erstellen</string>
   <string name="open_map">Karte öffnen</string>
   <string name="open_single_image_failure">Öffnen der Bilddatei fehlgeschlagen!</string>
+  <string name="open_sync">Jetzt synchroniseren</string>
   <string name="operation_cancel">Abbrechen</string>
   <string name="operation_delete">Löschen</string>
   <string name="operation_info">Details</string>
@@ -274,6 +280,7 @@
   <string name="sync_album_set_error">Herunterladen der Liste an Alben fehlgeschlagen. Bitte versuche es später erneut.</string>
   <string name="sync_history_power_on">Während dem Aufladen synchronisieren</string>
   <string name="sync_history_power_on_summary">Aktivieren, um Akku zu sparen, wenn nicht aufgeladen wird.</string>
+  <string name="sync_not_open">Du kannst deine Bilder automatisch mit der Cloud synchronisieren.</string>
   <string name="sync_only_in_wifi">Nur WLAN</string>
   <string name="sync_only_in_wifi_summary">Empfohlene Einstellung, da ansonsten Datenvolumen verbraucht wird.</string>
   <string name="sync_picasa_albums">Aktualisieren</string>
