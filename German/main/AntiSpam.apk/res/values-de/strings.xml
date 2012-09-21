@@ -113,7 +113,14 @@
   <string name="opt_reject_blacklist_stranger">Unbekannte Anrufer zurückweisen</string>
   <string name="opt_reject_blacklist_stranger_summary">Anrufe werden von der Blacklist zurückgewiesen, aber von der Whitelist zugelassen</string>
   <string name="remove">Entfernen</string>
+  <string name="remove_all_keywords">Möchtest du wirklich alle Schlüsselwörter entfernen?</string>
+  <string name="remove_call_log">Gesamte Anrufliste löschen?</string>
+  <string name="remove_contact">Ausgewählte Kontakte löschen?</string>
+  <string name="remove_delete">Löschen</string>
+  <string name="remove_inf">Ausgewählte Informationen löschen?</string>
+  <string name="remove_keyword">Möchtest du wirklich dieses Schlüsselwort entfernen?</string>
+  <string name="remove_sms">Alle Nachrichtenlisten löschen?</string>
   <string name="save_button">Speichern</string>
-  <string name="show_firewall_notification">Firewall-Benachrichtigungen anzeigen</string>
+  <string name="show_firewall_notification">Firewall-Benachrichtigungen</string>
   <string name="show_notification">Benachrichtigungen anzeigen</string>
 </resources>
