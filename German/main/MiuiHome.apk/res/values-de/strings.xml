@@ -121,6 +121,7 @@
   <string name="upside_edit_bottom_empty_tip">Das Rechteck zum Bearbeiten berühren</string>
   <string name="upside_enter_tip">Mit zwei Fingern nach unten wischen, um zur freien Startseite zu wechseln</string>
   <string name="upside_exit_tip">Mit zwei Fingern nach oben wischen, um freie Startseite zu verlassen</string>
+  <string name="upside_londing_text">Enhancing imagination and free…</string>
   <string name="wallpaper_scrolling">Alle</string>
   <string name="widget_favorite_contacts_edit">Editor</string>
   <string name="widget_favorite_contacts_label">Favoriten</string>

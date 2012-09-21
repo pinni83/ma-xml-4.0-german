@@ -81,6 +81,8 @@
   <string name="error_should_not_select_video">Achtung: Bitte keine Videodatei auswählen.</string>
   <string name="expand_album_in_home_page">Album auf Startseite erweitern</string>
   <string name="exposure_time">Belichtungszeit</string>
+   <string name="external_sd_card">SD Karte</string>
+  <string name="external_usb_device">USB Laufwerk</string>
   <string name="facelift">Gesichtsglühen</string>
   <string name="facetan">Gesichtsbräune</string>
   <string name="fail_init_gallery_db_helper">Anwendung beendet, Galerie-Datenbank konnte nicht geöffnet werden; Datenträger ist voll.</string>
@@ -121,11 +123,13 @@
   <string name="how_many_pics">%d Fotos</string>
   <string name="how_many_sub_folders">%d Ordner</string>
   <string name="how_many_videos">%d Videos</string>
+  <string name="how_many_volumes">%d Laufwerke</string>
   <string name="image_property">Fotoeigenschaften</string>
   <string name="import_complete">Importieren abgeschlossen</string>
   <string name="import_fail">Importieren fehlgeschlagen</string>
   <string name="internal_camera_folder_display_name">Interne Kamerafotos</string>
   <string name="internal_miui_capture_screen_folder_display_name">Interne Bildschirfotos</string>
+  <string name="internal_sd_card">Interne SD Karte</string>
   <string name="iso">ISO</string>
   <string name="loading">Wird geladen...</string>
   <string name="loading_account">Benutzerkonto wird geladen...</string>
@@ -272,6 +276,7 @@
   <string name="slideshow_interval_dialog_title">Diashow-Zeitintervall muss mehr als 0 Sekunden betragen</string>
   <string name="slideshow_interval_invalid">Ungültige Zeintintervalleinstellung. Es darf nur zwischen 1 und 3600 liegen. Der Standard-Zeitintervall wird nun verwendet.</string>
   <string name="slideshow_repeat_mode">Wiederholen</string>
+  <string name="storage_all_volumes">Alle Laufwerke</string>
   <string name="straighten">Begradigen</string>
   <string name="straighten_tooltip">Ziehen, um Foto zu begradigen</string>
   <string name="switch_to_camera">Zur Kamera wechseln</string>

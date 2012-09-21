@@ -114,4 +114,5 @@
   <string name="title_login">Logge dich in deinen Xiaomi-Account ein</string>
   <string name="title_reg">Registere deinen Xiaomi-Account</string>
   <string name="unactivated_user">Deaktiviert</string>
+    <string name="xmpp_server_addr" />
 </resources>

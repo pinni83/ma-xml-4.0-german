@@ -190,6 +190,7 @@ Nächster Zeitraum startet in %4$d Tagen (%5$s)"</string>
 Geschwindigkeit auf %2$d Kb/s gedrosselt"</string>
     <string name="throttle_time_frame_subtext" formatted="false">"%1$d٪ des Zyklus abgelaufen
 Nächste beginnt in %2$d Tagen (%3$s)"</string>
+  <string name="tone_miui">Tone</string>
     <string name="throttle_rate_subtext">Datenrate wird auf %1$d Kb/s reduziert, wenn das Limit erreicht wird.</string>
     <string name="throttle_help_subtext">Weitere Informationen über die Richtlinien Ihres Mobilfunkanbieters zur Nutzung mobiler Netzwerkdaten</string>
     <string name="cdma_cell_broadcast_sms">Cell Broadcast SMS</string>
@@ -409,6 +410,11 @@ Nächste beginnt in %2$d Tagen (%3$s)"</string>
     <string name="emergency_enable_radio_dialog_retry">Gebiet ohne Netzabdeckung, erneuter Versuch...</string>
     <string name="dial_emergency_error">Anruf nicht durchgeführt, %s ist keine Notrufnummer!</string>
     <string name="dial_emergency_empty_error">Anruf nicht verbunden. Wählen Sie eine Notrufnummer!</string>
+	<string name="dial_pad_touch_tone_default_miui">Default</string>
+  <string name="dial_pad_touch_tone_human_miui">Human voice</string>
+  <string name="dial_pad_touch_tone_miui">Dial Pad Touch Tones</string>
+  <string name="dial_pad_touch_tone_piano_miui">Piano sound</string>
+  <string name="dial_pad_touch_tone_setting_miui">Dial tone Settings</string>
     <string name="dialerKeyboardHintText">Zum Wählen Tastatur verwenden</string>
     <string name="dtmfDialpadHintText">Touch tone keypad</string>
     <string name="onscreenHoldText">Halten</string>
@@ -966,4 +972,5 @@ Achtung! Bei einem weiterem Fehlversuch wird die SIM Karte unbrauchbar!"</string
 <string name="auto_record_whitelist_summary_miui">%d Nummern</string>
 <string name="call_record_setting_miui">Ruf aufzeichen Einstellungen</string>
 <string name="call_record_path_name_of_sdcard_miui">SD Karte</string>
+  <string name="back_miui">Zurück</string>
 </resources>

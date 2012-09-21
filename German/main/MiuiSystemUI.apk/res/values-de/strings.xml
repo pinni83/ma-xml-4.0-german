@@ -227,6 +227,7 @@
   <string name="status_bar_settings_wifi_button">WLAN</string>
   <string name="status_bar_style_settings">Statusleiste-Einstellungen</string>
   <string name="status_bar_time_format_12">h:mma</string>
+  <string name="status_bar_time_format_12_simple">h:mm</string>
   <string name="status_bar_time_format_24">HH:mm</string>
   <string name="status_bar_toggle_ac">Privatsphäre</string>
   <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>

@@ -684,6 +684,7 @@ Möglicherweise falsche PIN."</string>
     <string name="device_status_activity_title">Status</string>
     <string name="device_status">Status</string>
     <string name="device_status_summary">Telefonnummer, Signal usw.</string>
+	<string name="dialog_title_entryvalues_dolby_control">Dolby control</string>
     <string name="storage_settings">Speicher</string>
     <string name="storage_settings_title">Speichereinstellungen</string>
     <string name="storage_settings_summary">USB-Speicher trennen, verfügbaren Speicher anzeigen</string>
@@ -1583,7 +1584,7 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
     <string name="enable_back_long_press"> Lange drücken um App zu schließen</string>
     <string name="back_long_press_timeout">"Verzögerung in Sekunden"</string>
     <string name="power_key">Power Taste</string>
-   
+    <string name="power_mode">Power Modus</string>
     <string name="menu_key">Menue Taste</string>
     <string name="disable_power_key_long_press_under_keyguard">Im Lockscreen deaktiviert</string>
     <string name="media_button">Media Taste</string>
@@ -1624,6 +1625,7 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
     <string name="lock_screen_unlock_show_summary">"Kein anderen Lockscreen nach Aktivierung benutzen"</string>
     <string name="date_time_settings">Datum &amp; Zeit</string>
     <string name="timezone_settings">Zeitzone</string>
+	<string name="title_dolby_control">Dolby control</string>
     <string name="incoming_call_vibrate_abbreviation">Anrufe</string>
     <string name="notification_vibrate_abbreviation">Benachrichtigungen</string>
     <string name="mms_vibrate_abbreviation">Nachrichten</string>
@@ -1649,5 +1651,13 @@ Der Datenverbrauch wird von Ihrem Telefon berechnet und kann von der Abrechnung 
   <string name="screen_on_proximity_sensor_summary">Verhindere Handyfunktionen wenn das Handy lose in einer Tasche ist(Erkennen via Näherungssensor).</string>
   <string name="screen_on_proximity_sensor_title">Verhindere Fehlbedinung</string>
     <string name="device_miui_version">MIUI Version:</string>
-
+	  <string name="wfd_available_devices">Available devices</string>
+  <string name="wfd_disconnect_diag_msg">If you break Wi-Fi Display session, your connection with %1$s will end.</string>
+  <string name="wfd_disconnect_diag_title">Tear down session?</string>
+  <string name="wfd_disconnect_multiple_diag_message">If you break Wi-Fi Display session, your connection with %1$s and %2$s other devices will end.</string>
+  <string name="wfd_menu_search">Search for devices</string>
+  <string name="wfd_menu_searching">Searching…</string>
+  <string name="wfd_menu_teardown">Teardown</string>
+  <string name="wfd_settings_title">Wi-Fi Display</string>
+    <string name="wifi_menu_wfd">Wi-Fi Display</string>
 </resources>

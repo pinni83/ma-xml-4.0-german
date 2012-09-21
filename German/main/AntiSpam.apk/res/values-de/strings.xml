@@ -103,6 +103,7 @@
   <string name="fw_whitelist">Whitelist</string>
   <string name="fw_whitelist_hint">Einträge in der Whitelist werden nicht blockiert</string>
   <string formatted="false" name="member_firewall_log">Blockiert: Number %d Details %d</string>
+  
   <string name="menu_edit">Bearbeiten</string>
   <string name="mms_log_tab_title">SMS</string>
   <string name="no">Abbrechen</string>
