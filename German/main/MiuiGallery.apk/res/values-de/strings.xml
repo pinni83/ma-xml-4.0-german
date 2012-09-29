@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="Import">Importieren</string>
-  <string name="account_not_login">Du kannst dich mit deinem Xiaomi-Konto anmelden und mit der Cloud synchronisieren. Somit werden geschossene Bilder automatisch in die Cloud-Verwaltung hochgeladen.string>
+  <string name="account_not_login">Du kannst dich mit deinem Xiaomi-Konto anmelden und mit der Cloud synchronisieren. Somit werden geschossene Bilder automatisch in die Cloud-Verwaltung hochgeladen.</string>
   <string name="activity_not_found">Keine Anwendung verfügbar, die diese Aktion ausführen kann.</string>
   <string name="add_account">Benutzerkonto hinzufügen</string>
   <string name="add_bookmark">Zu Favoriten hinzufügen</string>
@@ -81,7 +81,7 @@
   <string name="error_should_not_select_video">Achtung: Bitte keine Videodatei auswählen.</string>
   <string name="expand_album_in_home_page">Album auf Startseite erweitern</string>
   <string name="exposure_time">Belichtungszeit</string>
-   <string name="external_sd_card">SD Karte</string>
+  <string name="external_sd_card">SD Karte</string>
   <string name="external_usb_device">USB Laufwerk</string>
   <string name="facelift">Gesichtsglühen</string>
   <string name="facetan">Gesichtsbräune</string>
