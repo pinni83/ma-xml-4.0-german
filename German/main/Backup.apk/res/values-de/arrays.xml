@@ -1,34 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
         <item>WLAN-Daten</item>
-        <item>Alle Apps</item>
+        <item>Alle Anwendungen</item>
     </string-array>
     <string-array name="system_package_label">
         <item>Browser</item>
-        <item>Dateiexplorer</item>
+        <item>Explorer</item>
         <item>Galerie</item>
-        <item>Berechtigungen-Verwalter</item>
-        <item>Kamera</item>
-        <item>Netzwerk-Assistent</item>
+        <item>Berechtigungenverwalter</item>
+        <item>Wetter-Speicher</item>
+	<item>Kamera</item>
+        <item>Netzwerkassistent</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Kontakte</item>
         <item>Anrufliste</item>
         <item>Nachrichten</item>
-        <item>MMS</item>
+        <item>Multimedia Nachrichten</item>
         <item>Systemeinstellungen</item>
         <item>WLAN-Einstellungen</item>
-        <item>Desktop-Layout</item>
+        <item>Desktoplayout</item>
         <item>Alarmeinstellungen</item>
         <item>Notizen</item>
-        <item>Wächter</item>
+        <item>"Nicht stören"-Modus</item>
         <item>Benutzerkonto</item>
     </string-array>
     <string-array name="app_type_desc">
-        <item>(Daten)</item>
-        <item>(Apps)</item>
-        <item>(Daten + Apps)</item>
+        <item>Daten</item>
+        <item>Anwendungen</item>
+        <item>Anwendungen und Daten</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Kontakte</item>

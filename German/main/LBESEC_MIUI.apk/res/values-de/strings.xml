@@ -175,8 +175,8 @@
   <string name="Privacy_App_Trust">Ich vertraue dieser App</string>
   <string name="Privacy_App_TrustDialog_Content">Für diese App wird nicht mehr nach Bestätigung für Sicherheit und Datenschutz bezogene Tätigkeiten gefragt.</string>
   <string name="Privacy_App_TrustDialog_Title">Dieser App vertrauen</string>
-  <string name="Privacy_App_Trust_Summary_Off">Diese App wird nicht überwacht werden</string>
-  <string name="Privacy_App_Trust_Summary_On">Dieser App wird vertraut</string>
+  <string name="Privacy_App_Trust_Summary_Off">Diese App wird nicht mehr überwacht werden</string>
+  <string name="Privacy_App_Trust_Summary_On">Diese App wird nicht mehr überwacht</string>
   <string name="Privacy_App_Uninstall">Deinstallieren</string>
   <string name="Privacy_Perm_Count">Zugelassen: %1$d Abgelehnt: %2$d</string>
   <string name="Su_Enable_Dialog">%1$s versucht ROOT-Berechtigungen zu erhalten, welche standardmäßig deaktiviert sind, um die Sicherheit des Systems zu gewährleisten. Wenn du sie aktivieren musst, dann gehe zu den Einstellungen im Berechtigungenverwalter.</string>
@@ -184,5 +184,5 @@
   <string name="SysOpt_Boost_AutoStart_Group">Autostart</string>
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Hintergrund</string>
-  <string name="app_name">LBE Guard</string>
+  <string name="app_name">Rechte</string>
 </resources>

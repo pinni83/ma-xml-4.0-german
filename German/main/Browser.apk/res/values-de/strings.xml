@@ -150,6 +150,7 @@
   <string name="exported_bookmark_file_name">Meine Favoriten</string>
   <string name="file_picker_new_folder">Neuer Ordner</string>
   <string name="file_picker_sdcard_not_found">SD-Karte kann nicht gefunden werden. Überprüfe, ob das Gerät gerade eingehängt, oder in Benutzung ist</string>
+  <string name="find_on_page">Seite durchsuchen</string>
   <string name="folder_name">Ordnername</string>
   <string name="forward">Vorwärts</string>
   <string name="geolocation_permissions_prompt_dont_share">Ablehnen</string>
@@ -402,6 +403,7 @@
   <string name="search_hint">Suchen oder URL eingeben</string>
   <string name="search_label">Browser</string>
   <string name="search_settings_description">Lesezeichen und Internetverlauf</string>
+  <string name="search_sogou">Segou</string>
   <string name="search_the_web">Durchsuche das Internet</string>
   <string name="search_yahoo">Yahoo</string>
   <string name="security_warning">Sicherheitswarnung</string>
