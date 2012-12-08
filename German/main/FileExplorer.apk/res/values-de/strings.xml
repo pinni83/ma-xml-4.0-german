@@ -57,7 +57,7 @@
   <string name="dialog_type_video">Video</string>
   <string name="disconnect_notication">Alle Aufgaben wurden angehalten, während die Verbindung zum Netzwerk getrennt ist</string>
   <string name="download_items_detail_message">%1$d Dateien werden auf die SD-Karte kopiert...%2$d%%</string>
- <string name="download_link_completed">Ich habe %1$s über MiDrive geteilt. Klicke zum Ansehen auf folgenden Link: </string>
+  <string name="download_link_completed">Ich habe %1$s über MiDrive geteilt. Klicke zum Ansehen auf folgenden Link: </string>
   <string name="enable_sd_card">SD-Karte ist nicht verfügbar, schließe bitte eine an</string>
   <string name="error_info_cant_send_folder">Der Ordner konnte nicht gesendet werden</string>
   <string name="fail_to_create_folder">Der Ordner konnte nicht erstellt werden, da er bereits vorhanden ist</string>
@@ -85,7 +85,7 @@
   <string name="ftp_username_and_passworld">Benutzername und Passwort</string>
   <string name="ftp_username_hint">Benutzername</string>
   <string name="gbk_summary">Falls du GBK-Kodierung verwendest, z.B. Windows Explorer, dann wähle diesen Typ der Kodierung, um verstümmelten chinesisschen Text zu vermeiden</string>
-+  <string name="gbk_title">GBK</string>
+  <string name="gbk_title">GBK</string>
   <string name="guide_access_files_through_phone">"Du kannst Dateien auch über Webseiten hochladen - sie werden auch in MiDrive auf deinem Telefon angezeigt"</string>
   <string name="guide_access_files_through_web">"Deine Datei kann auf jedem, mit dem Internet verbundenen Computer angesehen werden"</string>
   <string name="guide_advance_tech">Erweiterte Techniken</string>
