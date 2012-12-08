@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="act_action_accept_accept">Zulassen</string>
-  <string name="act_action_accept_mute">Nachrichten verbergen</string>
-  <string name="act_action_accept_reject">Nachrichten zurückweisen</string>
-  <string name="act_action_mute_accept">Anrufe verbergen</string>
-  <string name="act_action_mute_mute">Anrufe und Nachrichten verbergen</string>
-  <string name="act_action_mute_reject">Anrufe verbergen, Nachrichten überwachen</string>
+  <string name="act_action_accept_mute">Nachrichten ausblenden</string>
+  <string name="act_action_accept_reject">Nachrichten blockieren</string>
+  <string name="act_action_mute_accept">Anrufe ausblenden</string>
+  <string name="act_action_mute_mute">Anrufe und Nachrichten ausblenden</string>
+  <string name="act_action_mute_reject">Anrufe ausblenden, Nachrichten überwachen</string>
   <string name="act_action_reject_accept">Anrufe überwachen</string>
-  <string name="act_action_reject_mute">Anrufe überwachen und Nachrichten verbergen</string>
+  <string name="act_action_reject_mute">Anrufe überwachen, Nachrichten ausblenden</string>
   <string name="act_action_reject_reject">Eingehende Anrufe und Nachrichten überwachen</string>
-  <string name="act_call">Anrufe protokollieren</string>
+  <string name="act_call">Anrufe auflisten</string>
   <string name="act_del_ms">Nicht anzeigen</string>
-  <string name="act_del_ms_summary">Zurückgewiesene Nachrichten werden nicht angezeigt</string>
+  <string name="act_del_ms_summary">Abgewiesene Nachrichten werden nicht angezeigt</string>
   <string name="act_hangup_call">Sofort auflegen</string>
-  <string name="act_hangup_call_summary">Zurückgewiesene Anrufe werden nicht in der Anrufliste angezeigt</string>
-  <string name="act_ignore_call">Anrufe nicht protokollieren</string>
-  <string name="act_ignore_ms">Benachrichtigungen ignorieren</string>
-  <string name="act_ms">Nachrichten protokollieren</string>
-  <string name="act_mute_call">Anrufe verbergen</string>
-  <string name="act_mute_call_summary">Anrufe werden nicht in Form von Benachrichtigungen angezeigt, aber dennoch in der Anrufliste protokolliert</string>
-  <string name="act_mute_ms">Benachrichtigungen verbergen</string>
-  <string name="act_mute_ms_summary">Benachrichtigungen werden deaktiviert, Nachrichten bleiben aber aufrufbar</string>
+  <string name="act_hangup_call_summary">Abgewiesene Anrufe werden nicht in der Anrufliste angezeigt</string>
+  <string name="act_ignore_call">Anrufe nicht auflisten</string>
+  <string name="act_ignore_ms">Benachrichtigungen ausblenden</string>
+  <string name="act_ms">Nachrichten auflisten</string>
+  <string name="act_mute_call">Anrufe ausblenden</string>
+  <string name="act_mute_call_summary">Anrufe werden keine Benachrichtigungen mehr hinterlassen, aber weiterhin in der Anrufliste aufgelistet</string>
+  <string name="act_mute_ms">Benachrichtigungen ausblenden</string>
+  <string name="act_mute_ms_summary">Benachrichtigungen werden deaktiviert, die Nachrichten bleiben aber weiterhin aufrufbar</string>
   <string name="add_blacklist">Zur Blacklist hinzufügen</string>
   <string name="add_button">Hinzufügen</string>
   <string name="add_whitelist">Zur Whitelist hinzufügen</string>
-  <string name="anti_private_summary">Private und/oder unterdrückte Nummern abweisen und protokollieren</string>
+  <string name="anti_private_summary">Private und unterdrückte Nummern abweisen und auflisten</string>
   <string name="anti_private_title">Private Nummern blockieren</string>
-  <string name="anti_stranger_summary">Nummern, die keinem Kontakt zugeordnet sind, werden blockiert</string>
+  <string name="anti_stranger_summary">Nummern, die keinem Kontakt zugewiesen sind, werden blockiert</string>
   <string name="anti_stranger_title">Unbekannte Nummern blockieren</string>
   <string name="app_name">Wächter</string>
   <string name="black_white_list_tab_title">Listen</string>
@@ -34,56 +34,56 @@
   <string name="calllog">Anrufliste</string>
   <string name="cancel_button">Abbrechen</string>
   <string name="check_all">Alle löschen</string>
-  <string name="check_nothing">Auswahl von allem entfernen</string>
+  <string name="check_nothing">Alle abwählen</string>
   <string name="clear_all_calllog">Anrufliste löschen</string>
   <string name="clear_all_mslog">Nachrichtenliste löschen</string>
   <string name="close_rule">Regel deaktivieren</string>
   <string name="confirm">Ok</string>
-  <string name="confirm_clear_blacklist">Möchtest du wirklich die Blacklist löschen?</string>
-  <string name="confirm_clear_whitelist">Möchtest du wirklich die Whitelist löschen?</string>
-  <string name="context_add_contact">Zu Kontakt hinzufügen</string>
+  <string name="confirm_clear_blacklist">Soll die Blacklist wirklich gelöscht werden?</string>
+  <string name="confirm_clear_whitelist">Soll die Whitelist wirklich gelöscht werden?</string>
+  <string name="context_add_contact">Zu bestehendem Kontakt hinzufügen</string>
   <string name="context_call">Anrufen</string>
   <string name="context_ms">Nachricht senden</string>
   <string name="context_new_contact">Neuer Kontakt</string>
   <string name="edit_blacklist">Notiz bearbeiten</string>
   <string name="edit_whitelist">Notiz bearbeiten</string>
-  <string name="emptylist_fwlog_call">Alle blockierten Anrufe werden hier protokolliert.</string>
-  <string name="emptylist_fwlog_ms">Alle blockierten SMS- und MMS-Nachrichten werden hier protokolliert.</string>
+  <string name="emptylist_fwlog_call">Alle blockierten Anrufe werden hier aufgelistet.</string>
+  <string name="emptylist_fwlog_ms">Alle blockierten SMS- und MMS-Nachrichten werden hier aufgelistet.</string>
   <string name="enable_firewall">Firewall aktivieren</string>
   <string name="firewall_action">Blockierungsvorgang</string>
   <string name="firewall_log">"Nicht stören"-Liste</string>
   <string name="firewall_settings">"Nicht stören"-Einstellungen</string>
   <string name="firewall_settings_tab_title">Filter</string>
   <string name="fw_action_settings">Firewall-Einstellungen</string>
-  <string name="fw_add_keyword">Stichwörter zur Überwachung hinzufügen</string>
-  <string formatted="false" name="fw_add_keyword_existing">Stichwort: "%s" existiert bereits</string>
+  <string name="fw_add_keyword">Zu überwachende Stichwörter hinzufügen</string>
+  <string formatted="false" name="fw_add_keyword_existing">Stichwort: %s ist bereits vorhanden</string>
   <string name="fw_add_list_title">Telefonnummer eingeben</string>
   <string name="fw_advanced_settings">Erweiterte Einstellungen</string>
   <string name="fw_all_day">Täglich</string>
   <string name="fw_blacklist">Blacklist</string>
   <string name="fw_blacklist_hint">Anrufe und Nachrichten werden automatisch blockiert, wenn sie zur Blacklist hinzugefügt werden</string>
   <string name="fw_blocked">"Blockiert"-Statistiken</string>
-  <string formatted="false" name="fw_blocked_count">%d Anrufe und %d Nachrichten wurden blockiert</string>
+  <string formatted="false" name="fw_blocked_count">%d Anrufe und %d Nachrichten blockiert</string>
   <string formatted="false" name="fw_call">Gesprächsdauer: %s (%d)</string>
   <string name="fw_call_imported">Aus Anrufliste importieren</string>
-  <string name="fw_call_muted">Anruf verborgen</string>
-  <string name="fw_call_rejected">Anruf zurückgewiesen</string>
+  <string name="fw_call_muted">Anruf ausgeblendet</string>
+  <string name="fw_call_rejected">Anruf abgewiesen</string>
   <string name="fw_clear_all_keyword">Alle Stichwörter löschen</string>
   <string name="fw_clear_blacklist">Blacklist löschen</string>
   <string name="fw_clear_whitelist">Whitelist löschen</string>
   <string name="fw_edit_keyword">Stichwörter bearbeiten</string>
   <string name="fw_end_time">Endzeit</string>
   <string name="fw_import_blacklist">Blacklist importieren</string>
-  <string name="fw_import_blacklist_confirm">%d Nummer ausgewählt, in die Blacklist importieren?</string>
+  <string name="fw_import_blacklist_confirm">%d Nummern ausgewählt. In die Blacklist importieren?</string>
   <string name="fw_import_ms">Alle Nachrichten importieren</string>
   <string name="fw_import_whitelist">Whitelist importieren</string>
-  <string name="fw_import_whitelist_confirm">%d Nummern ausgewählt, in die Whitelist importieren?</string>
-  <string formatted="false" name="fw_in_blacklist">%s - Nummer befindet sich bereits in der Blacklist</string>
-  <string formatted="false" name="fw_in_whitelist">%s - Nummer befindet sich bereits in der Whitelist</string>
+  <string name="fw_import_whitelist_confirm">%d Nummern ausgewählt In die Whitelist importieren?</string>
+  <string formatted="false" name="fw_in_blacklist">%s Nummer befindet sich bereits in der Blacklist</string>
+  <string formatted="false" name="fw_in_whitelist">%s number befindet sich bereits in der Whitelist</string>
   <string name="fw_keyword_filter">Stichwortfilter</string>
-  <string name="fw_keyword_filter_summary">Nachrichten mit bestimmten Wörtern abfangen</string>
+  <string name="fw_keyword_filter_summary">Nachrichten nach bestimmten Stichwörtern filtern</string>
   <string name="fw_keyword_list">Stichwörterliste</string>
-  <string name="fw_keyword_list_hint">Hier eingegebene Stichworte werden zum Blockieren von eingehenden Nachrichten verwendet</string>
+  <string name="fw_keyword_list_hint">Hier eingegebene Stichwörter werden zum Blockieren von eingehenden Nachrichten verwendet</string>
   <string name="fw_log_inf">Firewall</string>
   <string name="fw_menu_new_blacklist_title">Zur Blacklist hinzufügen</string>
   <string name="fw_menu_new_manual">Nummer manuell hinzufügen</string>
@@ -93,20 +93,20 @@
   <string formatted="false" name="fw_ms">Nachrichtenzeit: %s (%d)</string>
   <string name="fw_ms_filtered">Nachrichten werden gefiltert</string>
   <string name="fw_ms_imported">Nachrichten importieren</string>
-  <string name="fw_ms_muted">Nachrichten werden verborgen</string>
-  <string name="fw_ms_rejected">Nachrichten zurükgewiesen</string>
+  <string name="fw_ms_muted">Nachrichten werden ausgeblendet</string>
+  <string name="fw_ms_rejected">Nachrichten abgewiesen</string>
   <string name="fw_no_effect">Wächtermodus ist nicht aktiviert</string>
   <string name="fw_notes_hint">Notiz (optional)</string>
   <string name="fw_notification_settings">Benachrichtigungseinstellungen</string>
-  <string name="fw_on">Wächtermodus läuft</string>
+  <string name="fw_on">Wächertmodus läuft</string>
   <string name="fw_pattern_settings">Firewall-Regel</string>
   <string name="fw_period">Blockierungsperiode eingeben</string>
-  <string name="fw_restore_ms">Nachrichten wiederherstellen</string>
-  <string name="fw_set_keyword">Stichwortfilter konfigurieren</string>
+  <string name="fw_restore_ms">Zurück zu Nachrichten</string>
+  <string name="fw_set_keyword">Stichwörterfilter konfigurieren</string>
   <string name="fw_start_time">Anfangszeit</string>
   <string name="fw_time_settings">Blockierungsplan</string>
   <string name="fw_whitelist">Whitelist</string>
-  <string name="fw_whitelist_hint">Whitelist-Mitglieder werden nicht blockiert</string>
+  <string name="fw_whitelist_hint">Nummern auf der Whitelist werden nicht blockiert</string>
   <string formatted="false" name="member_firewall_log">Blockiert: Nummer %d Details %d</string>
   <string name="menu_edit">Bearbeiten</string>
   <string name="mms_log_tab_title">SMS</string>
@@ -114,18 +114,18 @@
   <string name="number_add_hint">Nummer zur Blacklist hinzufügen</string>
   <string name="opt_accept_whitelist">Whitelist zulassen</string>
   <string name="opt_reject_all">Alle abweisen</string>
-  <string name="opt_reject_blacklist">Blacklist zurückweisen</string>
-  <string name="opt_reject_blacklist_stranger">Unbekannte Anrufer zurückweisen</string>
-  <string name="opt_reject_blacklist_stranger_summary">Anrufe werden von der Blacklist zurückgewiesen, aber von der Whitelist zugelassen</string>
-  <string name="remove">Löschen</string>
-  <string name="remove_all_keywords">Möchtest du wirklich alle Stichwörter löschen?</string>
-  <string name="remove_call_log">Möchtest du wirklich alle Anruflisten löschen?</string>
-  <string name="remove_contact">Möchtest du wirklich den ausgewählten Kontakt löschen?</string>
+  <string name="opt_reject_blacklist">Blacklist abweisen</string>
+  <string name="opt_reject_blacklist_stranger">Unbekannte Nummern abweisen</string>
+  <string name="opt_reject_blacklist_stranger_summary">Anrufe werden von der Blacklist abgewiesen, aber von der Whitelist zugelassen</string>
+  <string name="remove">Entfernen</string>
+  <string name="remove_all_keywords">Sollen alle Stichwörter gelöscht werden?</string>
+  <string name="remove_call_log">Gesamte Anrufliste löschen?</string>
+  <string name="remove_contact">Ausgewählter Kontakt löschen?</string>
   <string name="remove_delete">Löschen</string>
-  <string name="remove_inf">Möchtest du wirklich die ausgewählten Informationen löschen?</string>
-  <string name="remove_keyword">Möchtest du wirklich dieses Stichwort löschen?</string>
-  <string name="remove_sms">Möchtest du wirklich alle Nachrichtenlisten löschen?</string>
+  <string name="remove_inf">Ausgewählte Information löschen?</string>
+  <string name="remove_keyword">Soll dieses Stichwort gelöscht werden?</string>
+  <string name="remove_sms">Gesamte Nachrichtenliste löschen?</string>
   <string name="save_button">Speichern</string>
-  <string name="show_firewall_notification">Firewall-Status anzeigen</string>
+  <string name="show_firewall_notification">Firewall-Benachrichtigung</string>
   <string name="show_notification">Benachrichtigungen anzeigen</string>
 </resources>
