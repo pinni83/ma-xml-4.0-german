@@ -748,7 +748,7 @@
         <item>bing</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
-        <item>Always on</item>
+        <item>Immer</item>
         <item>On demand</item>
         <item>Off</item>
     </string-array>
@@ -758,12 +758,12 @@
         <item>OFF</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Current page</item>
+        <item>Aktuelle Seite</item>
         <item>MIUI home</item>
-        <item>Blank page</item>
-        <item>Default page</item>
-        <item>Most visited sites</item>
-        <item>Other</item>
+        <item>Leere Seite</item>
+        <item>Standardseite</item>
+        <item>Meist besuchte Seiten</item>
+        <item>Sonstige</item>
     </string-array>
     <string-array name="pref_homepage_values">
         <item>current</item>
@@ -827,9 +827,9 @@
         <item>EUC-KR</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
-        <item>Never</item>
-        <item>Only on Wi-Fi</item>
-        <item>Always</item>
+        <item>Nie</item>
+        <item>Nur via Wi-Fi</item>
+        <item>Immer</item>
     </string-array>
     <array name="pref_data_preload_values">
         <item>@string/pref_data_preload_value_never</item>
