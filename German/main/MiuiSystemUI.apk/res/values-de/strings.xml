@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="APKTOOL_DUMMY_0116">falsch</string>
-  <string name="APKTOOL_DUMMY_0117">falsch</string>
   <string name="accessibility_airplane_mode">Flugmodus.</string>
   <string name="accessibility_back">Zurück</string>
   <string name="accessibility_battery_full">Akku voll.</string>
@@ -86,8 +84,6 @@
   <string name="compat_mode_help_header">Kombatibilität-Zoom</string>
   <string name="compat_mode_off">Strecken, um den Bildschirm auszufüllen</string>
   <string name="compat_mode_on">Zoomen, um den Bildschirm auszufüllen</string>
-  <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
-  <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
   <string name="data_usage_disabled_dialog">"Du hast das festgelegte Datenlimit überschritten. Wenn du Daten wieder aktivierst, dann kann dir das eventuell vom Anbieter in Rechnung gestellt werden."</string>
   <string name="data_usage_disabled_dialog_3g_title">2G/3G-Daten deaktiviert</string>
   <string name="data_usage_disabled_dialog_4g_title">4G-Daten deaktiviert</string>
@@ -105,6 +101,7 @@
   <string name="dlg_error_title">USB-Vorgang fehlgeschlagen</string>
   <string name="dlg_ok">Ok</string>
   <string name="dreams_dock_launcher">Bildschirmschoner aktivieren</string>
+  <string name="drive_mode_tip">Car mode enabled - Please drive carefully</string>
   <string name="ext_media_badremoval_notification_message">SD-Karte vor dem Entfernen auswerfen, um Datenverlust zu vermeiden.</string>
   <string name="ext_media_badremoval_notification_title">SD-Karte wurde unerwartet entfernt</string>
   <string name="ext_media_checking_notification_message">Auf Fehler überprüfen.</string>
@@ -229,39 +226,6 @@
   <string name="status_bar_time_format_12">h:mma</string>
   <string name="status_bar_time_format_12_simple">h:mm</string>
   <string name="status_bar_time_format_24">HH:mm</string>
-  <string name="status_bar_toggle_ac">Privatsphäre</string>
-  <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-  <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-  <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
-  <string name="status_bar_toggle_brightness">Helligkeit</string>
-  <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
-  <string name="status_bar_toggle_data">Daten</string>
-  <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
-  <string name="status_bar_toggle_divider">Mehr</string>
-  <string name="status_bar_toggle_divider_action">com.android.systemui/.settings.StyleSettings</string>
-  <string name="status_bar_toggle_flight_mode">Flugmodus</string>
-  <string name="status_bar_toggle_flight_mode_action">com.android.phone/com.android.phone.Settings</string>
-  <string name="status_bar_toggle_gps">GPS</string>
-  <string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
-  <string name="status_bar_toggle_lock">Sperren</string>
-  <string name="status_bar_toggle_mute">Lautlos</string>
-  <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
-  <string name="status_bar_toggle_network_type">Netzwerktyp</string>
-  <string name="status_bar_toggle_network_type_action">com.android.phone/.MiuiPreferredNetworkTypeListPreference</string>
-  <string name="status_bar_toggle_privacy_mode">Wächter</string>
-  <string name="status_bar_toggle_reboot">Neustart</string>
-  <string name="status_bar_toggle_rotate">Drehung</string>
-  <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
-  <string name="status_bar_toggle_screen_button">Bildschirmtasten</string>
-  <string name="status_bar_toggle_screenshot">Bildschirmfoto</string>
-  <string name="status_bar_toggle_shutdown">Ausschalten</string>
-  <string name="status_bar_toggle_sync">Sync</string>
-  <string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-  <string name="status_bar_toggle_torch">Lampe</string>
-  <string name="status_bar_toggle_vibrate">Vibration</string>
-  <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
-  <string name="status_bar_toggle_wifi">WLAN</string>
-  <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
   <string name="status_bar_use_physical_keyboard">Physische Tastatur verwenden</string>
   <string name="tab_notifications_lable">Benachrichtigungen</string>
   <string name="tab_toggles_lable">Schalter</string>

@@ -26,6 +26,8 @@
   <string name="failed_to_drop_widget_invalid">Widget ungültig</string>
   <string name="failed_to_drop_widget_nospace">Verschieben fehlgeschlagen, nicht genügend freier Platz!</string>
   <string name="folder_name">Ordner</string>
+  <string name="frame_load_failed">Failed to load Photo frame widget!</string>
+  <string name="gadget_clear_button_label">Clear Tasks</string>
   <string name="gadget_clock_12_label">Uhr 1x2</string>
   <string name="gadget_clock_22_label">Uhr 2x2</string>
   <string name="gadget_clock_24_label">Uhr 2x4</string>
@@ -38,7 +40,9 @@
   <string name="gadget_weather_download_message">Herunterladen von Theme-Paket erforderlich: %1$s. Größe: %2$s. Bitte neu auswählen, nachdem der Download abgeschlossen wurde</string>
   <string name="gadget_weather_download_start">Starten</string>
   <string name="gadget_weather_download_title">Herunterladen</string>
+  <string name="gadget_weather_downloading">Theme package is downloading. Please re-select after the download is finished</string>
   <string name="gadget_weather_loading">Keine Wetterdaten</string>
+  <string name="gadget_weather_low_temp">low temp</string>
   <string name="gadget_weather_theme_type">Widget-Typ</string>
   <string name="gadget_weather_time_format">EEE, D.MM</string>
   <string name="gadget_weather_time_spliter">:</string>
@@ -92,6 +96,7 @@
   <string name="preferences_general_title">Allgemeine Einstellungen</string>
   <string name="preferences_title">Launcher-Einstellungen</string>
   <string name="process" />
+  <string name="prompt_transition_icon_layout">Use previous icon arrangement in the new layout?</string>
   <string name="reset_scene_prompt">Die Szene wird auf das Standardlayout zurückgesetzt</string>
   <string name="select_frame">Ramen</string>
   <string name="select_photo">Foto</string>
@@ -103,6 +108,8 @@
   <string name="starting_preset_app">Es wird gestartet...</string>
   <string name="title_select_live_folder">Ordner auswählen</string>
   <string name="title_select_shortcut">Verknüpfung auswählen</string>
+  <string name="toggle_select_title">Select toggle</string>
+  <string name="toggle_title">Toggle</string>
   <string name="transformation_type_classic">Klassisch</string>
   <string name="transformation_type_classic_no_overshoot">Klassisch (ohne Überschwingen)</string>
   <string name="transformation_type_crossfade">Überblenden</string>
