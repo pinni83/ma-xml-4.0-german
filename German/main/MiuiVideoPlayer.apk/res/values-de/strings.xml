@@ -15,6 +15,7 @@
   <string name="airkan_video_playing_in">Video läuft…</string>
   <string name="app_name">MiVideo</string>
   <string name="buffering">Pufferung...</string>
+  <string name="buffering_video_netplay_label_v5">Buffering...</string>
   <string name="hello">VideoPlayerActivity</string>
   <string name="loading_video_netplay_label">Es wird geladen, bitte warten...</string>
   <string name="menu_item_about_label">Über</string>
@@ -25,6 +26,7 @@
   <string name="menu_item_orientation_fixed_by_videosize_action">Rotation deaktivieren</string>
   <string name="menu_item_screen_shot">Screenshots</string>
   <string name="menu_item_sub_title">Untertitel</string>
+  <string name="menu_item_switch_width_height_label">Switch aspect ratio</string>
   <string name="menu_wh_item_adapt_height_label">An Höhe anpassen</string>
   <string name="menu_wh_item_adapt_width_label">An Breite anpassen</string>
   <string name="menu_wh_item_auto_select_label">Automatisch anpassen</string>
@@ -32,11 +34,14 @@
   <string name="menu_wh_item_using_16_9_label">16:9</string>
   <string name="menu_wh_item_using_4_3_label">4:3</string>
   <string name="temp_play_history_button_label">Videoverlauf anzeigen</string>
+  <string name="to_be_play_label_v5">Playback starting</string>
   <string name="toast_back_key_pressed_notice">Drücke zum Beenden erneut die Zurück-Taste.</string>
-    <string name="toast_message_continue_play_from">Abspielen fortsetzen ab</string>
+  <string name="toast_message_continue_play_from">Abspielen fortsetzen ab</string>
   <string name="toast_message_continue_play_hour">Stunden</string>
   <string name="toast_message_continue_play_minute">min</string>
   <string name="toast_message_continue_play_second_and_play">sek</string>
+  <string name="top_status_local_media">Local media</string>
+  <string name="top_status_online_media">Online media</string>
   <string name="video_info_audio_bitrate_label">Audiobitrate:</string>
   <string name="video_info_audio_coding_label">Audiokodierungsformat:</string>
   <string name="video_info_audio_null">Nichts</string>
@@ -44,4 +49,9 @@
   <string name="video_info_length_label">Länge:</string>
   <string name="video_info_resolution_label">Videoauflösung:</string>
   <string name="video_info_video_coding_label">Videokodierungsformat:</string>
+  <string name="vp_VideoView_error_button">OK</string>
+  <string name="vp_VideoView_error_network_not_available">Network unavailable</string>
+  <string name="vp_VideoView_error_text_invalid_progressive_playback">Sorry, the selected video format is not valid for streaming to this device</string>
+  <string name="vp_VideoView_error_text_unknown">Sorry, the selected video format cannot be played</string>
+  <string name="vp_VideoView_error_title">Video playback error!</string>
 </resources>
