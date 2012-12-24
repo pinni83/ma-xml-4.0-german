@@ -19,7 +19,6 @@
   <string name="Dashboard_Perm_HIPS_Switch">Berechtigungsüberwachung</string>
   <string name="Dashboard_Perm_Header">%1$d Apps werden überwacht</string>
   <string name="Dashboard_Perm_Header_Disabled">Berechtigungsüberwachung ist deaktiviert</string>
-  <string name="Dashboard_Perm_SU">Manage ROOT Permission</string>
   <string name="Dashboard_Perm_SU_Desc">Monitoring %1$d apps for ROOT Permission</string>
   <string name="Dashboard_Perm_SU_Disabled">ROOT Permission is disabled</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT ist nicht verfügbar in STABLE MIUI Versionen</string>

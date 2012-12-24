@@ -691,7 +691,6 @@ Since data usage is measured by your phone, and your carrier may account for usa
   <string name="dolby_mode_movie">Movie Mode</string>
   <string name="dolby_mode_music">Music Mode</string>
   <string name="dolby_mode_off">Off</string>
-  <string name="dolby_movie_advance">Advanced Movie settings</string>
   <string name="dolby_music_advance">Advanced Music settings</string>
   <string name="dolby_preset_create">Create</string>
   <string name="dolby_preset_format">Custom %d</string>

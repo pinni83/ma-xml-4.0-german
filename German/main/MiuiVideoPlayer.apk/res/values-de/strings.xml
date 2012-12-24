@@ -26,7 +26,6 @@
   <string name="menu_item_orientation_fixed_by_videosize_action">Rotation deaktivieren</string>
   <string name="menu_item_screen_shot">Screenshots</string>
   <string name="menu_item_sub_title">Untertitel</string>
-  <string name="menu_item_switch_width_height_label">Switch aspect ratio</string>
   <string name="menu_wh_item_adapt_height_label">An Höhe anpassen</string>
   <string name="menu_wh_item_adapt_width_label">An Breite anpassen</string>
   <string name="menu_wh_item_auto_select_label">Automatisch anpassen</string>
