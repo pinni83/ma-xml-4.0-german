@@ -8,6 +8,7 @@
   <string name="add_music">Music Hinzufuegen</string>
   <string name="add_nickname">Nickname</string>
   <string name="add_nickname_title">Bearbeite Nicknamen</string>
+  <string name="add_number_to_sender">Add number to %s</string>
   <string name="add_phrase">Vorlagen</string>
   <string name="add_picture">Foto Hinzufuegen</string>
   <string name="add_slide">Dia Hinzufuegen</string>
@@ -68,6 +69,7 @@
   <string name="confirm_rate_limit">A large number of multimedia messages are being sent. Is this OK?</string>
   <string name="context_menu_add_contact">Add to Contacts</string>
   <string name="context_menu_browse_web">Browse</string>
+  <string name="context_menu_call">Call</string>
   <string name="context_menu_contact">Contact: %1$s</string>
   <string name="context_menu_copy">Copy</string>
   <string name="context_menu_copy_notice">Selection copied to clipboard</string>
@@ -156,6 +158,8 @@
   <string name="has_draft">Draft</string>
   <string name="has_invalid_recipient">Invalid recipient(s): %1$s</string>
   <string name="hidden_sender_address">Hidden sender address</string>
+  <string name="in_calling">Calling</string>
+  <string name="in_sms">Message</string>
   <string name="inline_subject">Subject: %s</string>
   <string name="insufficient_drm_rights">Insufficient DRM rights detected.</string>
   <string name="invalid_destination">Invalid destination address.</string>
@@ -167,6 +171,7 @@
   <string name="loading_all_messages">Loading all messages...</string>
   <string name="loading_contacts">Loading contacts...</string>
   <string name="loading_conversations">Loading conversations...</string>
+  <string name="loading_mms">Loading MMS…</string>
   <string name="me">Me</string>
   <string name="menu_add_address_to_contacts">Add %s to Contacts</string>
   <string name="menu_add_to_contacts">Add to Contacts</string>
@@ -232,12 +237,18 @@
   <string name="mx_activate_hint_server">Server activation failed to activate cloud messaging? Activate it now?</string>
   <string name="mx_activate_hint_sim_change">SIM card changed, reactivation of cloud messaging required. Activate it now?</string>
   <string name="mx_activating">Activating…</string>
+  <string name="mx_auto_resend_mms">Auto re-send MMS</string>
+  <string name="mx_auto_resend_mms_summary">Send as MMS when Cloud Messaging is unavailable. Carrier messaging rates may apply</string>
   <string name="mx_auto_resend_sms">Send as SMS</string>
   <string name="mx_auto_resend_sms_summary">Send as SMS when Cloud message is unavailable. Carrier messaging rates may apply</string>
   <string name="mx_btn_enable">Enable</string>
-  <string name="mx_count_dspt">Since activation, MIUI has sent %d cloud message(s) for you</string>
+  <string name="mx_count_dspt">Since activation, MIUI has sent %1$d cloud message(s) for you (%2$s)</string>
   <string name="mx_dspt">Send messages via Internet between MIUI, turn on to send via Operator once failed</string>
+  <string name="mx_dspt_disabled">Send messages via Internet between MIUI, enable send via operator once failed</string>
   <string name="mx_enable">Enable cloud messaging</string>
+  <string name="mx_enable_popup_msg">Cloud messaging enables you to send messages via MIUI. A normal SMS is required to activate the service and carrier charges may apply. Do you want to activate it now?</string>
+  <string name="mx_offline">Offline</string>
+  <string name="mx_online">Online</string>
   <string name="mx_reactivate">Re-activate cloud messaging</string>
   <string name="mx_warning_notice">An SMS will be sent to activate cloud messaging. Normal carrier data rates may apply</string>
   <string name="need_download">Waiting for sync...</string>
@@ -391,7 +402,7 @@
   <string name="select_link_title">Select action</string>
   <string name="select_top_text">Text on top</string>
   <string name="send">Send</string>
-  <string name="send_signature_confirm_dialog_message">No message body found. Are you sure to send only the signature?</string>
+  <string name="send_signature_confirm_dialog_message">No message body found. Are you sure you wish to send only the signature?</string>
   <string name="send_signature_confirm_dialog_title">Confirm Sending</string>
   <string name="send_to">To: %1$s</string>
   <string name="send_to_count">Sent %1$s message(s)</string>
@@ -413,10 +424,12 @@
   <string name="slide_number">Slide %s</string>
   <string name="slide_show_part">Part %1$s/%2$s</string>
   <string name="slideshow_activity">Slideshow</string>
+  <string name="sms_content">Message content</string>
   <string name="sms_full_body">Incoming message rejected due to full memory. Please delete old messages.</string>
   <string name="sms_full_title">Text message memory full</string>
   <string name="sms_rejected_body">Incoming message rejected due to unknown reason.</string>
   <string name="sms_rejected_title">Text message rejected</string>
+  <string name="sms_sender">From</string>
   <string name="status_failed">Unsuccessful</string>
   <string name="status_label">"Status: "</string>
   <string name="status_none">(None)</string>
@@ -458,6 +471,7 @@
   <string name="undelivered_msg_dialog_body">"Unable to send this message. Attempt made: %s."</string>
   <string name="undelivered_msg_dialog_title">Undelivered message</string>
   <string name="undelivered_sms_dialog_body">Unable to send this message.</string>
+  <string name="unknown_num">Unknown number</string>
   <string name="unknown_sender">Unknown sender</string>
   <string name="unsupported_media_format">Unsupported %1$s format</string>
   <string name="view">View</string>

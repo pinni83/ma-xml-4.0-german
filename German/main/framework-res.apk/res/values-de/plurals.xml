@@ -75,40 +75,8 @@
         <item quantity="other">Verfügbare WLAN-Netzwerke öffnen</item>
         <item quantity="one">Verfügbares WLAN-Netzwerk öffnen</item>
     </plurals>
-    <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">gerade</item>
-    </plurals>
-    <plurals name="less_than_one_minute_ago">
-        <item quantity="other">gerade</item>
-    </plurals>
-    <plurals name="abbrev_in_less_than_one_minute">
-        <item quantity="other">vor 1 Minute</item>
-    </plurals>
-    <plurals name="in_less_than_one_minute">
-        <item quantity="other">vor 1 Minute</item>
-    </plurals>
-    <plurals name="abbrev_a_hour_ago">
-        <item quantity="other">Vor 1 Stunde</item>
-    </plurals>
-    <plurals name="abbrev_half_hour_ago">
-        <item quantity="other">Vor einer halben Stunde</item>
-    </plurals>
-    <plurals name="a_hour_ago">
-        <item quantity="other">Vor 1 Stunde</item>
-    </plurals>
-    <plurals name="half_hour_ago">
-        <item quantity="other">Vor einer halben Stunde</item>
-    </plurals>
-    <plurals name="abbrev_in_a_hour">
-        <item quantity="other">Vor 1 Stunde</item>
-    </plurals>
-    <plurals name="abbrev_in_half_hour">
-        <item quantity="other">Vor einer halben Stunde</item>
-    </plurals>
-    <plurals name="in_a_hour">
-        <item quantity="other">Vor 1 Stunde</item>
-    </plurals>
-    <plurals name="in_half_hour">
-        <item quantity="other">Vor einer halben Stunde</item>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d von %2$d</item>
+        <item quantity="one">1 Treffer</item>
     </plurals>
 </resources>

@@ -7,10 +7,9 @@
   <string name="auto_backup">\u0020Automatische Sicherung</string>
   <string name="auto_backup_choose">Zu sichernde Daten auswählen</string>
   <string name="auto_backup_choose_empty">Keine Sicherungen</string>
-  <string name="auto_backup_choose_title">Zu sichernde Elemente auswählen</string>
+  <string name="auto_backup_choose_title">Zu sichernde Daten auswählen</string>
   <string name="auto_backup_date">Tag der Sicherung</string>
   <string name="auto_backup_only_wifi">Nur bei bestehender WLAN-Verbindung automatisch sichern</string>
-  <string name="auto_backup_open">Automatische Sicherung aktivieren</string>
   <string name="auto_backup_open">Automatische Sicherung aktivieren</string>
   <string name="auto_backup_progress">Automatische Sicherung wird durchgeführt. Bitte warte...</string>
   <string name="auto_backup_setting">Automatische Sicherung</string>

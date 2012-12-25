@@ -19,14 +19,13 @@
   <string name="Dashboard_Perm_HIPS_Switch">Berechtigungsüberwachung</string>
   <string name="Dashboard_Perm_Header">%1$d Apps werden überwacht</string>
   <string name="Dashboard_Perm_Header_Disabled">Berechtigungsüberwachung ist deaktiviert</string>
+  <string name="Dashboard_Perm_SU_Desc">Monitoring %1$d apps for ROOT Permission</string>
+  <string name="Dashboard_Perm_SU_Disabled">ROOT Permission is disabled</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT ist nicht verfügbar in STABLE MIUI Versionen</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"3rd party Apps ROOT gewähren kann das System instabil machen, oder persöhnliche Daten, das System oder die Hardware beschädigen. Bitte wechsel zu einer Entwicklungsversion von MIUI  um ROOT Rechte zu aktivieren."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI herunterladen</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuiandroid.com/community/</string>
   <string name="Dashboard_Perm_SU">ROOT-Berechtigungen verwalten</string>
-  <string name="Dashboard_Perm_SU_Desc">%1$d Apps mit ROOT-Berechtigungen werden überwacht</string>
-  <string name="Dashboard_Perm_SU_Disabled">ROOT-Berechtigung ist deaktiviert</string>
-  <string name="Dashboard_Perm_SU_Switch">ROOT-Berechtigung</string>
   <string name="Dashboard_Su_Enable_Content">"Mit Aktivieren werden Apps in der Lage sein ROOT-Berechtigungen anzufordern. Hinweis: Apps mit dieser Berechtigung führen eventuell zur Instabilität des Systems, zum Verlust von persönlichen Daten oder zu System- oder Hardwareschäden. Sei bitte vorsichtig. Möchtest du es wirklich aktivieren?"</string>
   <string name="Dashboard_Su_Enable_Title">ROOT-Berechtigungen</string>
   <string name="Generic_Canceling">Wird abgebrochen...</string>
