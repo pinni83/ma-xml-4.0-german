@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="add_task">Add task</string>
   <string name="adding_upload_tasks">Hochladeauftrag hinzufügen.</string>
   <string name="app_name">Explorer</string>
   <string name="cancel">Abbrechen</string>
   <string name="category_all">Alle</string>
   <string name="category_apk">APKs</string>
+  <string name="category_bluetooth">Bluetooth</string>
   <string name="category_default_number_text">(0)</string>
   <string name="category_document">Dokumente</string>
   <string name="category_favorite">Favorites</string>
+  <string name="category_log">Logs</string>
   <string name="category_music">Musik</string>
   <string name="category_other">Sonstige</string>
   <string name="category_picture">Bilder</string>
@@ -50,14 +53,17 @@
   <string name="delete_folders">Möchtest du wirklich die %1$d ausgewählten Ordner löschen?</string>
   <string name="delete_operation_result_all_success">%1$d Dateien wurden erfolgreich gelöscht</string>
   <string name="delete_operation_result_success_and_failed">%1$d Dateien wurden erfolgreich gelöscht, %2$d Dateien sind fehlgeschlagen</string>
+  <string name="des_running_trans">There are %1$d files that still need to be transferred</string>
   <string name="dialog_select_type">Dateityp auswählen</string>
   <string name="dialog_type_audio">Audio</string>
   <string name="dialog_type_image">Bild</string>
   <string name="dialog_type_text">Text</string>
   <string name="dialog_type_video">Video</string>
   <string name="disconnect_notication">Alle Aufgaben wurden angehalten, während die Verbindung zum Netzwerk getrennt ist</string>
+  <string name="download_failed">Download failed!</string>
   <string name="download_items_detail_message">%1$d Dateien werden auf die SD-Karte kopiert...%2$d%%</string>
   <string name="download_link_completed">Ich habe %1$s über MiDrive geteilt. Klicke zum Ansehen auf folgenden Link: </string>
+  <string name="downloading">Downloading…</string>
   <string name="enable_sd_card">SD-Karte ist nicht verfügbar, schließe bitte eine an</string>
   <string name="error_info_cant_send_folder">Der Ordner konnte nicht gesendet werden</string>
   <string name="fail_to_create_folder">Der Ordner konnte nicht erstellt werden, da er bereits vorhanden ist</string>
@@ -75,6 +81,8 @@
   <string name="file_large_error">"Dateien, die größer als 300MB sind, können nicht hochgeladen werden."</string>
   <string name="file_loading">Lädt...</string>
   <string name="file_size">%d Bytes</string>
+  <string name="finished">Finished</string>
+  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Click here&lt;/a&gt;to open cloud recycle bin</string>
   <string name="ftp_account_req_notice">Benutzername und Passwort, 4-16 Zeichen, muss aus Zahlen und Groß- sowie Kleinbuchstaben bestehen</string>
   <string name="ftp_anonymous_login">Anonymes FTP</string>
   <string name="ftp_invalid_username_or_password">Authentifkationsfehler</string>
@@ -105,6 +113,8 @@
   <string name="kuaipan_prompt_message">"Der Server ist momentan nicht verfügbar. Bitte versuche es später erneut"</string>
   <string name="kuaipan_tech_support">Technische Unterstützung von Kingsoft Kuaipan bereitgestellt</string>
   <string name="load_data_from_local">Daten werden geladen. Bitte warten...</string>
+  <string name="load_err">Loading failed</string>
+  <string name="loading">Loading…</string>
   <string name="local_cache">Lokaler Cache</string>
   <string name="local_cache_size">Lokale Cache-Größe: %s</string>
   <string name="login_reg_content">MiDrive hilft dir, Dateien zu speichern und sie zwischen mehreren Geräten zu synchronisieren.</string>
@@ -131,6 +141,7 @@
   <string name="notif_server_starting">FTP-Server gestartet</string>
   <string name="notif_title">FTP-Server</string>
   <string name="nowifi_notication">Alle Aufgaben wurden im Mobilen Netzwerk wegen erhöhtem Datenverbrauch angehalten</string>
+  <string name="operating">Running…</string>
   <string name="operation_cancel">Abbrechen</string>
   <string name="operation_cancel_selectall">Auswahl von allen entfernen</string>
   <string name="operation_compress">Komprimieren</string>
@@ -151,14 +162,19 @@
   <string name="operation_moving">Wird verschoben...</string>
   <string name="operation_paste">Einfügen</string>
   <string name="operation_pasting">Wird eingefügt...</string>
+  <string name="operation_pause">Pause</string>
+  <string name="operation_pause_all">Pause all</string>
   <string name="operation_refresh">Aktualisieren</string>
   <string name="operation_rename">Umbenennen</string>
   <string name="operation_rename_message">Einen neuen Namen eingeben</string>
+  <string name="operation_resume">Resume</string>
+  <string name="operation_resume_all">Resume all</string>
   <string name="operation_selectall">Alle auswählen</string>
   <string name="operation_send">Senden</string>
   <string name="operation_show_sys">Versteckte Dateien anzeigen</string>
   <string name="operation_unfavorite">Aus Favoriten entfernen</string>
   <string name="pan_settting">MiDrive-Einstellungen</string>
+  <string name="paused">Paused</string>
   <string name="remote_management">FTP</string>
   <string name="rename">Umbenennen</string>
   <string name="rename_description">Wird umbenannt. Bitte warten…</string>
@@ -173,6 +189,7 @@
   <string name="send_to_midrive_failed_message">Senden an MiDrive fehlgeschlagen. Der Inhalt wird nicht unterstützt</string>
   <string name="server_control_advanced_settings">Erweiterte Einstellungen</string>
   <string name="server_control_charset">Übertragungskodierung</string>
+  <string name="server_control_settings">Server Settings</string>
   <string name="share_link">Link teilen</string>
   <string name="share_link_failed">Erstellen eines Links zum Teilen fehlgeschlagen. Bitte versuche es erneut!</string>
   <string name="show_message">Die Datei kann nicht geöffnet werden, ohne vorher heruntergeladen zu werden</string>
@@ -184,11 +201,16 @@
   <string name="stay_awake_summary">Lässt den Bildschirm bei FTP-Nutzung aktiv</string>
   <string name="stay_awake_title">Aktiv lassen</string>
   <string name="stop_server">Dienst beenden</string>
+  <string name="storage_internal">Internal storage</string>
+  <string name="storage_sd_card">SD card</string>
+  <string name="storage_usb">USB storage</string>
   <string name="storage_warning">Externes Speichermedium ist nicht verfügbar oder kann nicht gelesen werden</string>
   <string name="tab_category">Durchsuchen</string>
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_sd">SD-Karte</string>
   <string name="toast_file_not_can_read">Die Datei kann nicht gelesen werden.</string>
+  <string name="trans_task">Network transfer</string>
+  <string name="transing">Transferring…</string>
   <string name="trash_box_capacity">Müllgröße: %1$s</string>
   <string name="trash_box_link">Besuche pan.xiaomi.com um den Müll zu leeren</string>
   <string name="trash_box_message1">"Du kannst nicht mehr benötigte Dateien löschen, um Speicherplatz freizugeben"</string>
@@ -217,13 +239,16 @@
   <string name="ui_task_menu_clean">Alle Aufgaben löschen</string>
   <string name="ui_task_menu_goon">Alle Aufgaben fortsetzen</string>
   <string name="ui_task_menu_pause">Alle Aufgaben anhalten</string>
+  <string name="upload_failed">Upload failed!</string>
   <string name="upload_file_toolarge_message">"%1$d Dateien, die größer als 300MB sind, können nicht hochgeladen werden. Rufe bitte die Übertragungsverwaltung für weitere Details auf."</string>
   <string name="upload_items_detail_message">%1$d Dateien werden in MiDrive kopiert...%2$d%%</string>
+  <string name="uploading">Uploading…</string>
   <string name="used">Verwendet</string>
   <string name="user_guide">Benutzerhandbuch</string>
   <string name="user_guide_summary">Wie man MiDrive verwendet</string>
   <string name="utf8_summary">Standardkodierungstyp</string>
   <string name="utf8_title">UTF-8</string>
+  <string name="waiting">Waiting…</string>
   <string name="waiting_refresh">Wird aktualisiert, bitte warte...</string>
   <string name="wangpan_root_path">Mein Speicher</string>
   <string name="wifi_notication">Alle Aufgaben sind bereit über WLAN zu starten</string>
