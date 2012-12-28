@@ -207,6 +207,7 @@
   <string name="storage_warning">Externes Speichermedium ist nicht verfügbar oder kann nicht gelesen werden</string>
   <string name="tab_category">Durchsuchen</string>
   <string name="tab_networkdisk">MiDrive</string>
+  <string name="tab_phone">Phone</string>
   <string name="tab_sd">SD-Karte</string>
   <string name="toast_file_not_can_read">Die Datei kann nicht gelesen werden.</string>
   <string name="trans_task">Network transfer</string>
