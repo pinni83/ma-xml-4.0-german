@@ -11,7 +11,7 @@
   <string name="accessibility_shutter_button">Auslöser</string>
   <string name="accessibility_switch">%1$s wechseln</string>
   <string name="accessibility_zoom_control">Zoom-Steuerung</string>
-  <string name="bg_replacement_message">"Platziere dein Gerät festem Untergrund und stelle sicher, dass sich hinter dir nichts bewegt. Trete dann aus dem Sichtfeld der Kamera."</string>
+  <string name="bg_replacement_message">"Platzieren Sie Ihr Gerät auf festem Untergrund und stellen Sie sicher, dass sich hinter Ihnen nichts bewegt. Treten Sie dann aus dem Sichtfeld der Kamera."</string>
   <string name="camera_disabled">Die Kamera wurde aufgrund von Sicherheitsrichtlinien deaktiviert.</string>
   <string name="camera_error_title">Kamerafehler</string>
   <string name="camera_gallery_photos_text">Galerie</string>
@@ -21,7 +21,7 @@
   <string name="confirm_restore_message">Die Kamera-Einstellungen werden auf die Standardwerte zurückgesetzt.</string>
   <string name="confirm_restore_title">Standardwerte wiederherstellen</string>
   <string name="dialog_ok">Ok</string>
-  <string name="disable_video_snapshot_hint">Video-Momentaufnahmen sind deaktiviert, wenn Spezialeffekte aktiviert sind.</string>
+  <string name="disable_video_snapshot_hint">Video-Momentaufnahmen sind deaktiviert wenn Spezialeffekte aktiviert sind.</string>
   <string name="effect_backdropper_disco">Disco</string>
   <string name="effect_backdropper_gallery">Benutzerdefiniert</string>
   <string name="effect_backdropper_space">Weltraum</string>
@@ -38,18 +38,18 @@
   <string name="empty">" "</string>
   <string name="gallery_camera_bucket_name">Kamerabilder</string>
   <string name="gallery_camera_videos_bucket_name">Kameravideos</string>
-  <string name="image_file_name_format">"'IMG'_ddMMyyyy_HHmmss"</string>
+  <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="no_picture_to_share">Kein Bild zum Teilen</string>
-  <string name="no_storage">Bitte hänge die SD-Karte ein, bevor du die Kamera verwendest.</string>
+  <string name="no_storage">Bitte hängen Sie die SD-Karte ein, bevor Sie die Kamera verwendest.</string>
   <string name="no_video_to_share">Kein Video zum Teilen</string>
-  <string name="not_enough_space">Deine SD-Karte ist voll.</string>
+  <string name="not_enough_space">Ihre SD-Karte ist voll.</string>
   <string name="not_selectable_in_effect">Dies kann nicht ausgewählt werden, wenn der Effekt aktiviert ist.</string>
   <string name="not_selectable_in_scene_mode">Dies ist im Szenenmodus nicht auswählbar</string>
   <string name="pano_capture_indication">Panorama wird aufgenommen</string>
   <string name="pano_dialog_panorama_failed">Speichern des Panoramas fehlgeschlagen</string>
   <string name="pano_dialog_prepare_preview">Panorama wird vorbereitet</string>
   <string name="pano_dialog_title">Panorama</string>
-  <string name="pano_file_name_format">"'PANO'_ddMMyyyy_HHmmss"</string>
+  <string name="pano_file_name_format">"'PANO'_yyyyMMdd_HHmmss"</string>
   <string name="pano_review_saving_indication_str">Wird gespeichert...</string>
   <string name="pano_too_fast_prompt">Zu schnell</string>
   <string name="pref_camcorder_settings_category">Camcorder-Einstellungen</string>
@@ -124,7 +124,7 @@
   <string name="setting_increment">&gt;</string>
   <string name="share_picture_via">Bild teilen via</string>
   <string name="share_video_via">Video teilen via</string>
-  <string name="spaceIsLow_content">Der Speicherplatz deiner SD-Karte wird immer knapper. Ändere die Qualitätseinstellungen oder lösche ein paar Bilder oder andere Dateien.</string>
+  <string name="spaceIsLow_content">Der Speicherplatz Ihrer SD-Karte wird immer knapper. Ändern Sie die Qualitätseinstellungen oder löschen Sie ein paar Bilder oder andere Dateien.</string>
   <string name="switch_camera_id">Kamera wechseln</string>
   <string name="switch_to_camera_label">Zu Kamera wechseln</string>
   <string name="switch_to_panorama_label">Zu Panorama wechseln</string>
@@ -134,6 +134,6 @@
   <string name="video_camera_label">Camcorder</string>
   <string name="video_file_name_format">"'VID'_ddMMyyyy_HHmmss"</string>
   <string name="video_reach_size_limit">Die Dateigröße wurde erreicht.</string>
-  <string name="video_snapshot_hint">Nehme ein Bild während dem Filmen auf, indem du auf das Vorschaubild tippst.</string>
-  <string name="wait">Bitte warte…</string>
+  <string name="video_snapshot_hint">Nehmen Sie ein Bild während dem Filmen auf, indem Sie auf das Vorschaubild tippen.</string>
+  <string name="wait">Bitte warten Sie…</string>
 </resources>

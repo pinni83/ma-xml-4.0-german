@@ -16,7 +16,7 @@
   <string name="add_new_entry_for_section">Neu hinzufügen</string>
   <string name="add_organization">Organisation hinzufügen</string>
   <string name="add_to_my_contacts">Zu meinen Kontakten hinzufügen</string>
-  <string name="aggregation_suggestion_edit_dialog_message">Zum Bearbeiten der ausgewählten Kontakte wechseln? Bisher von dir eingegebene Informationen werden gespeichert.</string>
+  <string name="aggregation_suggestion_edit_dialog_message">Zum Bearbeiten der ausgewählten Kontakte wechseln? Bisher von Ihnen eingegebene Informationen werden gespeichert.</string>
   <string name="aggregation_suggestion_edit_dialog_title">Ausgewählte Kontakte bearbeiten</string>
   <string name="aggregation_suggestion_join_dialog_message">Den aktuellen mit dem ausgewählten Kontakt zusammenführen?</string>
   <string name="aggregation_suggestion_join_dialog_title">Kontakte zusammenführen</string>
@@ -108,7 +108,7 @@
   <string name="clear_default">Standardwerte löschen</string>
   <string name="click_close">Zum Schließen berühren</string>
   <string name="composer_failed_to_get_database_infomation">"Datenbankinformationen konnten nicht erhalten werden"</string>
-  <string name="composer_has_no_exportable_contact">Es sind keine exportierbaren Kontakte vorhanden. Falls sich Kontakte auf deinem Telefon befinden sollten, wurde für diese das Exportieren außerhalb das Telefons eventuell von manchen Datenanbietern verboten.</string>
+  <string name="composer_has_no_exportable_contact">Es sind keine exportierbaren Kontakte vorhanden. Falls sich Kontakte auf Ihrem Telefon befinden sollten, wurde für diese das Exportieren außerhalb das Telefons eventuell von manchen Datenanbietern verboten.</string>
   <string name="composer_not_initialized">Der vCard-Composer wurde nicht korrekt initialisiert</string>
   <string name="config_export_dir">/mnt/sdcard</string>
   <string name="config_export_extensions_to_consider" />
@@ -119,7 +119,7 @@
   <string name="config_import_vcard_type">default</string>
   <string name="config_prohibited_phone_number_regexp" />
   <string formatted="false" name="confirm_delete_selected_call_log">Die %1d ausgewählte(n) Gruppe(n) an Gesprächsmitschnitten löschen?</string>
-  <string formatted="false" name="confirm_export_message">Deine Kontaktliste in die Datei \"%s\" exportieren?</string>
+  <string formatted="false" name="confirm_export_message">Ihre Kontaktliste in die Datei \"%s\" exportieren?</string>
   <string name="confirm_export_title">Exportieren bestätigen</string>
   <string name="connections">Verbindungen</string>
   <string name="contactDetailAbout">Über</string>
@@ -130,11 +130,11 @@
   <string name="contactSavedErrorToast">Die Inhaltsänderungen konnten nicht gespeichert werden.</string>
   <string name="contactSavedToast">Kontakt wurde gespeichert</string>
   <string formatted="false" name="contact_directory_description">Verzeichnis %1$s</string>
-  <string name="contact_editor_prompt_multiple_accounts">Du kannst deinen neuen Kontakt mit einem der folgenden Benutzerkonten synchronisieren. Welches soll verwendet werden?</string>
-  <string formatted="false" name="contact_editor_prompt_one_account">Dein neuer Kontakt wird mit \"%1$s\" synchronisiert.</string>
-  <string name="contact_editor_prompt_zero_accounts">"Dein neuer Kontakt wird nicht gesichert. Ein Benutzerkonto hinzufügen, das deine Kontakte online sichert und synchronisiert?"</string>
+  <string name="contact_editor_prompt_multiple_accounts">Sie können Ihren neuen Kontakt mit einem der folgenden Benutzerkonten synchronisieren. Welches soll verwendet werden?</string>
+  <string formatted="false" name="contact_editor_prompt_one_account">Ihr neuer Kontakt wird mit \"%1$s\" synchronisiert.</string>
+  <string name="contact_editor_prompt_zero_accounts">"Ihr neuer Kontakt wird nicht gesichert. Möchten Sie ein Benutzerkonto hinzufügen, welches Ihre Kontakte online sichert und synchronisiert?"</string>
   <string name="contact_pick_photo">Bild</string>
-  <string name="contact_read_only">Nicht durch dieser Anwendung editierbar</string>
+  <string name="contact_read_only">Nicht durch diese Anwendung editierbar</string>
   <string formatted="false" name="contact_status_update_attribution">via %1$s</string>
   <string formatted="false" name="contact_status_update_attribution_with_date">%1$s via %2$s</string>
   <string name="contactsAllLabel">Alle</string>
@@ -218,7 +218,7 @@
   <string name="display_options_view_names_as">Kontakte anzeigen</string>
   <string name="display_sim_contacts">SIM-Kontakte</string>
   <string name="display_ungrouped">Alle anderen Kontakte</string>
-  <string formatted="false" name="display_warn_remove_ungrouped">"Mit dem Entfernen von \"%s\" von der Synchronisation, werden auch jegliche nicht gruppierten Kontakte von der Synchronisation entfernt."</string>
+  <string formatted="false" name="display_warn_remove_ungrouped">"Mit dem Entfernen von \"%s\" von der Synchronisation werden auch jegliche nicht gruppierten Kontakte von der Synchronisation entfernt."</string>
   <string name="editContactDescription">Kontakt bearbeiten</string>
   <string name="edit_contact">Kontakt bearbeiten</string>
   <string name="edit_contact_card_title">Kontaktkarte bearbeiten</string>
@@ -231,12 +231,12 @@
   <string name="email_mobile">E-Mail (Mobil)</string>
   <string name="email_other">E-Mail</string>
   <string name="email_work">E-Mail (Arbeit)</string>
-  <string name="empty_divider_title">Du kannst</string>
+  <string name="empty_divider_title">Sie können</string>
   <string name="enter_contact_name">"Name der Person eingeben"</string>
   <string name="eventLabelsGroup">Ereignisse</string>
   <string name="event_edit_field_hint_text">Datum</string>
   <string name="export_sim_contact_finish">Exportieren auf die SIM-Karte abgeschlossen</string>
-  <string name="export_sim_contacts_dialog_message">Deine SIM-Karte kann bis zu %d Kontakte speichern. Möchtest du wirklich fortfahren?</string>
+  <string name="export_sim_contacts_dialog_message">Ihre SIM-Karte kann bis zu %d Kontakte speichern. Möchten Sie wirklich fortfahren?</string>
   <string name="export_to_sdcard">Auf Speicher exportieren</string>
   <string name="export_to_sim">Auf SIM-Karte exportieren</string>
   <string name="export_vcard_description">vCard auf die SD-Karte exportieren</string>
@@ -326,7 +326,7 @@
   <string name="liveFolderFavorites">Favorisierte Kontakte</string>
   <string name="liveFolderPhone">Kontakte mit Telefonnummern</string>
   <string name="liveFolder_all_label">Alle Kontakte</string>
-  <string name="liveFolder_favorites_label">Favorisierte</string>
+  <string name="liveFolder_favorites_label">Favoriten</string>
   <string name="liveFolder_phones_label">Telefon</string>
   <string name="loading_group_members">Gruppenmitglieder werden geladen...</string>
   <string name="loading_groups">Gruppen werden geladen...</string>
@@ -379,11 +379,11 @@
   <string name="menu_sync_remove">Synchronisationsgruppe entfernen</string>
   <string name="menu_viewContact">Kontakt ansehen</string>
   <string formatted="false" name="merge_contact_message">(%1$d) Kontakte mit teilweise doppelten Daten, (%2$d) zusammengeführt</string>
-  <string name="messageShortcutActivityTitle">Wähle eine anzuschreibende Nummer</string>
+  <string name="messageShortcutActivityTitle">Wählen Sie die anzuschreibende Nummer</string>
   <string name="missing_name">(Namenlos)</string>
   <string name="move_and_resize">Verschieben und Skalieren</string>
   <string name="multipleContactDeleteConfirmation">Mit Löschen dieses Kontakts werden Informationen aus mehreren Benutzerkonten entfernt.</string>
-  <string name="multipleContactDeleteConfirmationDetail">Löschen von \"%s\" werden Informationen aus mehreren Benutzerkonten entfernt.</string>
+  <string name="multipleContactDeleteConfirmationDetail">Mit Löschen von \"%s\" werden Informationen aus mehreren Benutzerkonten entfernt.</string>
   <string name="nameLabelsGroup">Name</string>
   <string name="name_family">Nachname</string>
   <string name="name_given">Vorname</string>
@@ -405,22 +405,22 @@
   <string name="noContacts">Es sind keine Kontakte vorhanden</string>
   <string name="noContactsHelpText">"Es sind keine Kontkate vorhanden, die hier hätten angezeigt werden können.
 
-Um Kontakte hinzuzufügen, berühre "</string>
+Um Kontakte hinzuzufügen, berühren Sie "</string>
   <string name="noContactsHelpTextForCreateShortcut">"Es sind keine Kontkate vorhanden, die hier hätten angezeigt werden können."</string>
-  <string name="noContactsHelpTextWithSync">"Es sind keine Kontkate vorhanden, die hier hätten angezeigt werden können. (Falls du gerade erst ein Benutzerkonto hinzugefügt hast, könnte es eine Weile dauern, bis die Kontakte vollständig synchronisiert werden.)
+  <string name="noContactsHelpTextWithSync">"Es sind keine Kontkate vorhanden, die hier hätten angezeigt werden können. (Falls Sie gerade erst ein Benutzerkonto hinzugefügt haben, könnte es eine Weile dauern, bis die Kontakte vollständig synchronisiert werden.)
 
-Um Kontakte hinzuzufügen, berühre "</string>
-  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Es sind keine Kontkate vorhanden, die hier hätten angezeigt werden können. (Falls du gerade erst ein Benutzerkonto hinzugefügt hast, könnte es eine Weile dauern, bis die Kontakte vollständig synchronisiert werden.)"</string>
+Um Kontakte hinzuzufügen, berühren Sie "</string>
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Es sind keine Kontkate vorhanden, die hier hätten angezeigt werden können. (Falls Sie gerade erst ein Benutzerkonto hinzugefügt haben, könnte es eine Weile dauern, bis die Kontakte vollständig synchronisiert werden.)"</string>
   <string name="noContactsNoSimHelpText">"Es sind keine Kontkate vorhanden, die hier hätten angezeigt werden können.
 
-Um Kontakte hinzuzufügen, berühre "</string>
-  <string name="noContactsNoSimHelpTextWithSync">"Es sind keine Kontkate vorhanden, die hier hätten angezeigt werden können. (Falls du gerade erst ein Benutzerkonto hinzugefügt hast, könnte es eine Weile dauern, bis die Kontakte vollständig synchronisiert werden.)
+Um Kontakte hinzuzufügen, berühren Sie "</string>
+  <string name="noContactsNoSimHelpTextWithSync">"Es sind keine Kontkate vorhanden, die hier hätten angezeigt werden können. (Falls Sie gerade erst ein Benutzerkonto hinzugefügt haben, könnte es eine Weile dauern, bis die Kontakte vollständig synchronisiert werden.)
 
-Um Kontakte hinzuzufügen, berühre "</string>
+Um Kontakte hinzuzufügen, berühren Sie "</string>
   <string name="noContactsWithPhoneNumbers">Es sind keine Kontakte mit Telefonnummern vorhanden.</string>
   <string name="noFavoritesHelpText">"Es sind keine Favoriten vorhanden.
 
-Um einen Kontakt deiner Liste an Favoriten hinzuzufügen:
+Um einen Kontakt Ihrer Liste an Favoriten hinzuzufügen:
 
 "</string>
   <string name="noGroups">Es sind keine Gruppen vorhanden</string>
@@ -460,7 +460,7 @@ Um einen Kontakt deiner Liste an Favoriten hinzuzufügen:
   <string name="photo_package_activity_title">Bildpaket</string>
   <string name="pick_favorites_contacts_list_title">Insgesamt %1$d favorisierte Kontakte</string>
   <string formatted="false" name="pick_favorites_list_title">Insgesamt %1$d favorisierte Kontaktnummern</string>
-  <string name="pick_new_photo">Wähle ein neues Bild aus der Galerie aus</string>
+  <string name="pick_new_photo">Wählen Sie ein neues Bild aus der Galerie aus</string>
   <string name="pick_photo">Bild aus der Galerie auswählen</string>
   <string name="pick_recent_contacts_list_title">Insgesamt %1$d kürzliche Kontakte</string>
   <string formatted="false" name="pick_recent_list_title">Insgesamt %1$d kürzliche Kontaktnummern</string>
@@ -504,10 +504,10 @@ Um einen Kontakt deiner Liste an Favoriten hinzuzufügen:
   <string name="quickcontact_missing_app">Es wurde keine Anwendung gefunden, welche diese Aktion ausführen könnte</string>
   <string name="quit_dialog_confirm_title">Soll das Zusammenführen von Kontakten beendet werden?</string>
   <string formatted="false" name="raw_contact_account_label">Benutzerkonto: %1$s</string>
-  <string formatted="false" name="raw_contact_list_title">Dieser Kontakt enthält folgende %1$d Ursprungskontakte. Berühre, um den zu bearbeitenden Kontakt auszuwählen</string>
+  <string formatted="false" name="raw_contact_list_title">Dieser Kontakt enthält folgende %1$d Ursprungskontakte. Berühren, um den zu bearbeitenden Kontakt auszuwählen</string>
   <string name="readOnlyContactDeleteConfirmation">Dieser Kontakt enthält Informationen von mehreren Benutzerkonten. Informationen von schreibgeschützten Benutzerkonten werden in der Kontaktliste ausgeblendet, aber nicht gelöscht.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" enthält Informationen von mehreren Benutzerkonten. Informationen von schreibgeschützten Benutzerkonten werden in der Kontaktliste ausgeblendet, aber nicht gelöscht.</string>
-  <string name="readOnlyContactWarning">Du kannst keine Kontakte von schreibgeschützten Benutzerkonten löschen, diese aber in deiner Kontaktliste ausblenden.</string>
+  <string name="readOnlyContactWarning">Sie können keine Kontakte von schreibgeschützten Benutzerkonten löschen, diese aber in Ihrer Kontaktliste ausblenden.</string>
   <string name="reading_vcard_failed_title">"vCard-Daten konnten nicht gelesen werden"</string>
   <string name="recentCallsIconLabel">Anrufliste</string>
   <string name="recentCalls_addToContact">Zu Kontakten hinzufügen</string>
@@ -549,18 +549,18 @@ Um einen Kontakt deiner Liste an Favoriten hinzuzufügen:
   <string name="share_error">Dieser Kontakt kann nicht geteilt werden.</string>
   <string name="share_via">Kontakt teilen via</string>
   <string name="share_visible_contacts">Sichtbare Kontakte teilen</string>
-  <string name="shortcutActivityTitle">Wähle eine Kontaktverknüpfung</string>
+  <string name="shortcutActivityTitle">Wählen Sie eine Kontaktverknüpfung</string>
   <string name="shortcutContact">Kontakte</string>
   <string name="shortcutDialContact">Direktwahl</string>
   <string name="shortcutMessageContact">Direktnachricht</string>
   <string name="showAllContactsJoinItem">Alle Kontakte anzeigen</string>
   <string name="simContacts_emptyLoading">Von SIM-Karte laden…</string>
   <string name="simContacts_title">SIM-Karten-Kontakte</string>
-  <string name="sim_card_no_free_space_message">Deine SIM-Kartenkapazität ist voll. Neue Kontakte konnten nicht importiert werden. Bitte lösche die SIM-Karte und versuche es erneut</string>
+  <string name="sim_card_no_free_space_message">Ihre SIM-Kartenkapazität ist voll. Neue Kontakte konnten nicht importiert werden. Bitte löschen Sie die SIM-Karte und versuchen Sie es anschließend erneut</string>
   <string name="sim_card_no_free_space_title">SIM-Karte ist voll</string>
   <string name="sim_contact_search_error">Der Fehler tritt auf, wenn SIM-Karten-Kontakte durchsucht werden</string>
   <string name="sim_contacts">SIM-Kontakte</string>
-  <string name="sim_export_loading">SIM-Karten-Informationen werden gelesen. Dieser Vorgang kann eine Weile dauern. Bitte habe etwas Geduld.</string>
+  <string name="sim_export_loading">SIM-Karten-Informationen werden gelesen. Dieser Vorgang kann eine Weile dauern. Bitte haben Sie etwas Geduld.</string>
   <string name="sim_indexed_contact_not_exist">Die Position %1$d auf der SIM-Karte ist ungültig, sie sollte zwischen %2$d und %3$d sein</string>
   <string name="sim_no_contact">Es sind keine Kontakte auf der SIM-Karte vorhanden</string>
   <string name="smart_group_action_bar_title">%1$s-%2$s</string>
@@ -608,8 +608,8 @@ Um einen Kontakt deiner Liste an Favoriten hinzuzufügen:
   <string name="strequentList">Favoriten</string>
   <string name="success_message_import_from_account">Importieren erfolgreich</string>
   <string name="summary_kind_title">Zusammenfassung</string>
-  <string name="t9_search_guide">Gebe eine Nummer ein, oder durchsuche Kontakte per T9-Index.</string>
-  <string name="t9_search_guide_zhuyin">Gebe eine Nummer ein, oder durchsuche Kontakte per T9-Indexing</string>
+  <string name="t9_search_guide">Geben Sie eine Nummer ein, oder durchsuchen Sie Kontakte per T9-Index.</string>
+  <string name="t9_search_guide_zhuyin">Geben Sie eine Nummer ein, oder durchsuchen SIe Kontakte per T9-Indexing</string>
   <string name="take_new_photo">Neues Bild aufnehmen</string>
   <string name="take_photo">Bild aufnehmen</string>
   <string name="titleJoinContactDataWith">Kontakte zusammenführen</string>
@@ -629,15 +629,15 @@ Um einen Kontakt deiner Liste an Favoriten hinzuzufügen:
   <string name="unknown_contact_name">Unbekannter Kontakt</string>
   <string name="unkown_location">Unbekannter Standort</string>
   <string name="upgrade_in_progress">Die Kontaktliste wird aktualisiert.</string>
-  <string formatted="false" name="upgrade_out_of_memory">"Die Kontakte befinden sich im Aktualisierungsvorgang. Dieser Vorgang benötigt etwa %s MB internen Speicher. Wähle eine der folgenden Optionen:"</string>
+  <string formatted="false" name="upgrade_out_of_memory">"Die Kontakte befinden sich im Aktualisierungsvorgang. Dieser Vorgang benötigt etwa %s MB internen Speicher. Wählen Sie eine der folgenden Optionen:"</string>
   <string name="upgrade_out_of_memory_retry">Aktualisierung wiederholen</string>
   <string name="upgrade_out_of_memory_uninstall">Einige Anwendungen deinstallieren</string>
   <string name="use_photo_as_primary">Dieses Bild verwenden</string>
   <string name="user_profile_contacts_list_header">Ich</string>
-  <string name="vcard_export_request_rejected_message">Die vCard-Exportierungsanfrage wurde abgewiesen. Bitte versuche es später erneut.</string>
+  <string name="vcard_export_request_rejected_message">Die vCard-Exportierungsanfrage wurde abgewiesen. Bitte versuchen Sie es später erneut.</string>
   <string formatted="false" name="vcard_export_will_start_message">%s wird in Kürze exportiert.</string>
   <string name="vcard_import_failed">"Die vCard konnte nicht exportiert werden"</string>
-  <string name="vcard_import_request_rejected_message">Die vCard-Importierungsanfrage wurde abgewiesen. Bitte versuche es später erneut.</string>
+  <string name="vcard_import_request_rejected_message">Die vCard-Importierungsanfrage wurde abgewiesen. Bitte versuchen Sie es später erneut.</string>
   <string formatted="false" name="vcard_import_will_start_message">%s wird in Kürze importiert.</string>
   <string name="vcard_import_will_start_message_with_default_name">Die Datei wird in Kürze importiert.</string>
   <string name="vcard_unknown_filename">kontakt</string>
@@ -658,7 +658,7 @@ Um einen Kontakt deiner Liste an Favoriten hinzuzufügen:
   <string name="voicemail_status_action_call_server">Anrufbeantworer anrufen</string>
   <string name="voicemail_status_action_configure">Konfigurieren</string>
   <string name="voicemail_status_audio_not_available">Audio ist nicht verfügbar.</string>
-  <string name="voicemail_status_configure_voicemail">Dein Anrufbeantworter konfigurieren.</string>
+  <string name="voicemail_status_configure_voicemail">Ihren Anrufbeantworter konfigurieren.</string>
   <string name="voicemail_status_messages_waiting">Mit dem Anrufbeantworter-Server kann keine Verbindung aufgebaut werden. Es warten neue Sprachnachrichten.</string>
   <string name="voicemail_status_voicemail_not_available">Mit dem Anrufbeantworter-Server kann keine Verbindung aufgebaut werden.</string>
   <string name="websiteLabelsGroup">Website</string>

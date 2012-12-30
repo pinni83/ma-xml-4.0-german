@@ -6,7 +6,7 @@
   <string name="description">Beschreibung (erforderlich)</string>
   <string name="discard_draft_dialog_button_cancel">Abbrechen</string>
   <string name="discard_draft_dialog_button_discard">Ok</string>
-  <string name="discard_draft_dialog_content">Der Bericht wurde verändert. Berühre \"Ok\", um den Entwurf zu verwerfen.</string>
+  <string name="discard_draft_dialog_content">Der Bericht wurde verändert. Berühren Sie \"Ok\", um den Entwurf zu verwerfen.</string>
   <string name="discard_draft_dialog_title">Entwurf verwerfen</string>
   <string name="err_type">Feedback-Typ</string>
   <string name="err_type_call">Anrufprobleme</string>
@@ -41,6 +41,6 @@
   <string name="user_feedback">Benutzer-Feedback</string>
   <string name="wlan_unavailable_dialog_button_ok">Ok</string>
   <string name="wlan_unavailable_dialog_button_sent">Jetzt senden</string>
-  <string name="wlan_unavailable_dialog_content">%s wird an 2G/3G-Daten verwendet. Berühre \"Ok\", um nur über ein verbundenes WLAN-Netzwerk zu senden</string>
+  <string name="wlan_unavailable_dialog_content">%s wird an 2G/3G-Daten verwendet. Berühren SIe \"Ok\", um nur über ein verbundenes WLAN-Netzwerk zu senden</string>
   <string name="wlan_unavailable_dialog_title">WLAN nicht verfügbar</string>
 </resources>

@@ -7,7 +7,7 @@
   <string name="local_invisible_directory">Andere</string>
   <string name="pound_search_tip">Nummer nach \"#\" eingeben, um Kontakte zu durchsuchen</string>
   <string name="provider_label">Kontakte</string>
-  <string name="read_write_all_voicemail_description">Erlaubt es der Applikation, alle Sprachnachrichten, auf die dieses Gerät zugreifen kann, zu erhalten und zu speichern.</string>
+  <string name="read_write_all_voicemail_description">Erlaubt es der Anwendung, alle Sprachnachrichten, auf die dieses Gerät zugreifen kann, zu erhalten und zu speichern.</string>
   <string name="read_write_all_voicemail_label">Auf alle Sprachnachrichten zugreifen</string>
   <string name="send_sms">Nachricht senden</string>
   <string name="sharedUserLabel">Android-System-Apps</string>

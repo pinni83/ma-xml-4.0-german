@@ -32,7 +32,7 @@
   <string name="add_to_bookmarks_menu_option">Lesezeichen</string>
   <string name="add_to_homescreen_menu_option">Desktop</string>
   <string name="add_to_other_folder_menu_option">Anderer Ordner</string>
-  <string name="add_xiaomi_account_warning">Melde dich bitte zuerst mit deinem Xiaomi-Konto an</string>
+  <string name="add_xiaomi_account_warning">Bitte melden Sie sich zuerst mit Ihrem Xiaomi-Konto an</string>
   <string name="added_to_bookmarks">Zu den Lesezeichen hinzugefügt</string>
   <string name="allow">Erlauben</string>
   <string name="application_name">Internet</string>
@@ -54,8 +54,8 @@
   <string name="autofill_profile_editor_zip_code">Postleitzahl:</string>
   <string name="autofill_profile_successful_delete">AutoFill-Text wurde gelöscht</string>
   <string name="autofill_profile_successful_save">AutoFill-Text wurde gespeichert</string>
-  <string name="autofill_setup_dialog_message">Der Browser kann Formulare wie dieses automatisch ausfüllen. Möchtest du deinen AutoFill-Text einstellen?</string>
-  <string name="autofill_setup_dialog_negative_toast">Du kannst deinen AutoFill-Text jederzeit über "Einstellungen &gt; Allgemein" einstellen.</string>
+  <string name="autofill_setup_dialog_message">Der Browser kann Formulare wie dieses automatisch ausfüllen. Möchten Sie Ihren AutoFill-Text festlegen?</string>
+  <string name="autofill_setup_dialog_negative_toast">Sie können Ihren AutoFill-Text jederzeit über "Einstellungen &gt; Allgemein" festlegen.</string>
   <string name="autologin_bar_error">"Anmelden fehlgeschlagen"</string>
   <string name="autologin_bar_hide_text">Ausblenden</string>
   <string name="autologin_bar_login_text">Anmelden</string>
@@ -84,7 +84,7 @@
   <string name="bookmarks_search">Browser</string>
   <string name="browserFrameFileErrorLabel">Dateiproblem</string>
   <string name="browserFrameFormResubmitLabel" />
-  <string name="browserFrameFormResubmitMessage">"Die von dir aufgerufene Seite beinhaltet Daten, die bereits gesendet wurden (\"POSTDATA\"). Wenn du diese Daten erneut sendest, könnte jeder zuvor ausgeführter Vorgang auf der Seite (wie etwa Suche, Formularübermittlung, Online-Einkauf, ...) erneut ausgeführt werden."</string>
+  <string name="browserFrameFormResubmitMessage">"Die von Ihnen aufgerufene Seite beinhaltet Daten, die bereits gesendet wurden (\"POSTDATA\"). Wenn Sie diese Daten erneut senden, könnte jeder zuvor ausgeführter Vorgang auf der Seite (wie etwa Suche, Formularübermittlung, Online-Einkauf, ...) erneut ausgeführt werden."</string>
   <string name="browserFrameNetworkErrorLabel">Verbindungsproblem</string>
   <string name="browser_bookmarks_page_bookmarks_text">Lesezeichen</string>
   <string name="browser_history">Kürzlich besuchte Seiten</string>
@@ -154,16 +154,16 @@
   <string name="folder_name">Ordnername</string>
   <string name="forward">Vor</string>
   <string name="geolocation_permissions_prompt_dont_share">Ablehnen</string>
-  <string formatted="false" name="geolocation_permissions_prompt_message">%s möchte deinen Standort erfahren</string>
+  <string formatted="false" name="geolocation_permissions_prompt_message">%s möchte Ihren Standort erfahren</string>
   <string name="geolocation_permissions_prompt_remember">Auswahl merken</string>
   <string name="geolocation_permissions_prompt_share">Standort freigeben</string>
-  <string name="geolocation_permissions_prompt_toast_allowed">Diese Seite kann auf deinen Standort zugreifen. Du kannst das unter "Einstellungen &gt; Erweitert &gt; Website" ändern.</string>
-  <string name="geolocation_permissions_prompt_toast_disallowed">Diese Seite kann nicht auf deinen Standort zugreifen. Du kannst das unter "Einstellungen &gt; Erweitert &gt; Website" ändern.</string>
+  <string name="geolocation_permissions_prompt_toast_allowed">Diese Seite kann auf Ihren Standort zugreifen. Sie können kannst dies unter "Einstellungen &gt; Erweitert &gt; Website" ändern.</string>
+  <string name="geolocation_permissions_prompt_toast_disallowed">Diese Seite kann nicht auf Ihren Standort zugreifen. Sie können dies unter "Einstellungen &gt; Erweitert &gt; Website" ändern.</string>
   <string name="geolocation_settings_page_dialog_cancel_button">Abbrechen</string>
   <string name="geolocation_settings_page_dialog_message">Standortfreigabe für diese Website entfernen?</string>
   <string name="geolocation_settings_page_dialog_ok_button">Ok</string>
-  <string name="geolocation_settings_page_summary_allowed">Diese Seite kann derzeit auf deinen Standort zugreifen</string>
-  <string name="geolocation_settings_page_summary_not_allowed">"Diese Seite kann derzeit nicht auf deinen Standort zugreifen"</string>
+  <string name="geolocation_settings_page_summary_allowed">Diese Seite kann derzeit auf Ihren Standort zugreifen</string>
+  <string name="geolocation_settings_page_summary_not_allowed">"Diese Seite kann derzeit nicht auf Ihren Standort zugreifen"</string>
   <string name="geolocation_settings_page_title">Standortfreigabe entfernen</string>
   <string name="go_home">Startseite</string>
   <string name="google_bookmarks">"Google: "</string>
@@ -179,8 +179,8 @@
   <string formatted="false" name="import_bookmarks_dialog_confirm_add">Die Lesezeichen auf diesem Gerät mit %s synchronisieren?</string>
   <string formatted="false" name="import_bookmarks_dialog_confirm_delete">Die Lesezeichen auf diesem Gerät löschen und mit %s synchronisieren?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Die Lesezeichen auf diesem Gerät löschen und mit dem Google-Konto synchronisieren</string>
-  <string name="import_bookmarks_dialog_description">"Die Lesezeichen auf diesem Gerät sind noch mit keinem Google-Konto verknüpft. Speichere diese Lesezeichen, indem du sie einem Benutzerkonto hinzufügst. Lösche diese Lesezeichen, wenn du sie nicht synchronisieren möchtest."</string>
-  <string formatted="false" name="import_bookmarks_dialog_import">Füge deine Android-Lesezeichen deinen Lesezeichen für %s hinzu %s</string>
+  <string name="import_bookmarks_dialog_description">"Die Lesezeichen auf diesem Gerät sind noch mit keinem Google-Konto verknüpft. Speichern Sie diese Lesezeichen, indem Sie diese einem Benutzerkonto hinzufügen. Löschen Sie diese Lesezeichen, wenn Sie diese nicht synchronisieren möchten."</string>
+  <string formatted="false" name="import_bookmarks_dialog_import">Fügen Sie Ihre Android-Lesezeichen Ihren Lesezeichen für %s hinzu %s</string>
   <string name="import_bookmarks_dialog_remove">Lesezeichen löschen</string>
   <string name="import_bookmarks_dialog_select_add_account">Die Lesezeichen auf diesem Gerät mit dem Google-Konto synchronisieren</string>
   <string name="import_bookmarks_dialog_title">Mit Google-Konto synchronisieren</string>
@@ -240,7 +240,7 @@
   <string name="pref_autofill_enabled">AutoFill-Formular</string>
   <string name="pref_autofill_enabled_summary">Fülle Formulare mit einer einzelnen Berührung aus</string>
   <string name="pref_autofill_profile_editor">AutoFill-Text</string>
-  <string name="pref_autofill_profile_editor_summary">Lege den Text fest, mit dem Formulare automatisch ausgefüllt werden sollen</string>
+  <string name="pref_autofill_profile_editor_summary">Legen Sie den Text fest, mit dem Formulare automatisch ausgefüllt werden sollen</string>
   <string formatted="false" name="pref_autologin_progress">Mit %s in Google-Seiten anmelden</string>
   <string name="pref_autologin_title">Automatische Google-Anmeldung</string>
   <string name="pref_clear_cache_for_exit">Cache beim Beenden löschen</string>
@@ -260,7 +260,7 @@
   <string name="pref_content_open_in_background_summary">Neue Tabs hinter dem aktuellen Tab öffnen</string>
   <string name="pref_content_plugins">Plugins aktivieren</string>
   <string name="pref_content_search_engine">Suchmaschine festlegen</string>
-  <string name="pref_content_search_engine_summary">Wähle eine Suchmaschine</string>
+  <string name="pref_content_search_engine_summary">Wählen Sie eine Suchmaschine</string>
   <string name="pref_content_title">Seiteninhalt</string>
   <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_dialogtitle">Suchergebnisse vorladen</string>
@@ -349,7 +349,7 @@
   <string name="pref_privacy_clear_passwords_summary">Alle gespeicherten Passwörter löschen</string>
   <string name="pref_privacy_cookies_title">Cookies</string>
   <string name="pref_privacy_enable_geolocation">Standort freigeben</string>
-  <string name="pref_privacy_enable_geolocation_summary">Seiten erlauben, die Freigabe deines Standorts anzufragen</string>
+  <string name="pref_privacy_enable_geolocation_summary">Seiten erlauben, die Freigabe Ihres Standorts anzufragen</string>
   <string name="pref_privacy_formdata_title">Formulardaten</string>
   <string name="pref_privacy_location_title">Standort</string>
   <string name="pref_privacy_security_title">Privatsphäre &amp; Sicherheit</string>
@@ -361,7 +361,7 @@
   <string name="pref_security_remember_passwords">Passwörter merken</string>
   <string name="pref_security_remember_passwords_summary">Benutzernamen und Passwörter für Webseiten speichern</string>
   <string name="pref_security_save_form_data">Formulardaten merken</string>
-  <string name="pref_security_save_form_data_summary">Daten, die ich in Formulare eingegeben habe, für die spätere Verwendung merken</string>
+  <string name="pref_security_save_form_data_summary">Daten, die in Formularen eingegeben wurden, für die spätere Verwendung merken</string>
   <string name="pref_security_show_security_warning">Sicherheitswarnungen anzeigen</string>
   <string name="pref_security_show_security_warning_summary">"Eine Warnung zeigen, wenn ein Problem mit der Sicherheit einer Seite besteht"</string>
   <string name="pref_set_homepage_to">Festlegen als</string>
@@ -414,7 +414,7 @@
   <string name="shortcut_bookmark">Lesezeichen</string>
   <string name="shortcut_bookmark_title">Wähle ein Lesezeichen</string>
   <string formatted="false" name="sign_in_to">In %s1 \"%s2\" anmelden</string>
-  <string name="snapshot_failed">"Konnte zum Offline-Lesen nicht gespeichert werden."</string>
+  <string name="snapshot_failed">"Konnte nicht zum Offline-Lesen gespeichert werden."</string>
   <string name="snapshot_go_live">Online ansehen</string>
   <string name="ssl_continue">Fortfahren</string>
   <string name="ssl_date_invalid">Dieses Zertifikat hat ein ungültiges Datum.</string>
@@ -439,7 +439,7 @@
   <string name="title_bar_loading">Wird geladen...</string>
   <string name="too_many_subwindows_dialog_message">Es kann nur ein Popup zur selben Zeit geöffnet sein.</string>
   <string name="too_many_subwindows_dialog_title">Popup bereits geöffnet</string>
-  <string name="too_many_windows_dialog_message">"Es kann kein neuer Tab geöffnet werden, bis zu einen bisherigen schließt."</string>
+  <string name="too_many_windows_dialog_message">"Es kann kein neuer Tab geöffnet werden, bis ein bisheriger geschlossen wird."</string>
   <string name="too_many_windows_dialog_title">Tab-Limit erreicht</string>
   <string name="ua_switcher_desktop">Desktop-Version anfordern</string>
   <string name="uploads_disabled">Datei-Uploads sind deaktiviert.</string>
@@ -449,13 +449,13 @@
   <string name="warning">Warnung</string>
   <string name="website_settings_clear_all">Alle löschen</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Abbrechen</string>
-  <string name="website_settings_clear_all_dialog_message">Alle Website-Daten und -Stadortfreigaben löschen?</string>
+  <string name="website_settings_clear_all_dialog_message">Alle Webseitendaten und -standortfreigaben löschen?</string>
   <string name="website_settings_clear_all_dialog_ok_button">Ok</string>
   <string name="webstorage_clear_data_dialog_cancel_button">Abbrechen</string>
-  <string name="webstorage_clear_data_dialog_message">Alle Daten, die von dieser Website gespeichert werden, löschen?</string>
+  <string name="webstorage_clear_data_dialog_message">Alle Daten, die von dieser Webseite gespeichert werden, löschen?</string>
   <string name="webstorage_clear_data_dialog_ok_button">Ok</string>
   <string name="webstorage_clear_data_title">Gespeicherte Daten löschen</string>
-  <string name="webstorage_origin_summary_mb_stored">MB auf deinem Telefon gespeichert</string>
+  <string name="webstorage_origin_summary_mb_stored">MB auf Ihrem Telefon gespeichert</string>
   <string name="webstorage_outofspace_notification_text">Berühre, um freien Speicherplatz zu schaffen.</string>
   <string name="webstorage_outofspace_notification_title">Browser-Speicher ist voll</string>
 </resources>
