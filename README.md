@@ -1,19 +1,24 @@
 MIUIAndroid V4 German Translations.
 =================
-This is a repository for the MIUIAndroid MultiRom project.
+This is the repository for the German Translation of MIUIAndroid.
 
 Credits
 =================
-* [iBotPeaches](http://connortumbleson.com) - Builder of MultiRom, Bug reports.
+* [iBotPeaches]  - Builder of MIUI-ROM.
 
-* [Gerrett] - Leader of  the German translation
+* [ingbrzy] - Builder of MultiLang Packs for MIUI-ROM, Build-Bug Fixes.
 
-* [bitti] - Helps with the translation^^
+* [Bitti09] - Leader of  the German translation
 
-* [BobQuentok] - Helps with the translation^^
+* [BobQuentok] - 2nd Leader of  the German translation
+
+* [Gerrett84] - Helps with the translation^^
+
+* [KlotziDotCom] - Helps with the translation^^
+
  
 External Links
 =================
-* [MIUIAndroid](http://miuiandroid.com)
+* [MIUIAndroid] (http://miuiandroid.com)
 
 
